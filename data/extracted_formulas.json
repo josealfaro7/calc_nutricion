@@ -1,0 +1,5360 @@
+{
+  "Datos Adulto": [
+    {
+      "row": 1,
+      "cells": [
+        {
+          "coord": "A1",
+          "content": "Edad",
+          "is_formula": false,
+          "cached_value": "Edad"
+        },
+        {
+          "coord": "B1",
+          "content": "sexo",
+          "is_formula": false,
+          "cached_value": "sexo"
+        },
+        {
+          "coord": "J1",
+          "content": "CLASIFICACIÓN",
+          "is_formula": false,
+          "cached_value": "CLASIFICACIÓN"
+        },
+        {
+          "coord": "K1",
+          "content": "PRINCIPALES",
+          "is_formula": false,
+          "cached_value": "PRINCIPALES"
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "cells": [
+        {
+          "coord": "A2",
+          "content": "18",
+          "is_formula": false,
+          "cached_value": 18
+        },
+        {
+          "coord": "B2",
+          "content": "Hombre",
+          "is_formula": false,
+          "cached_value": "Hombre "
+        },
+        {
+          "coord": "J2",
+          "content": "BAJO PESO",
+          "is_formula": false,
+          "cached_value": "BAJO PESO"
+        },
+        {
+          "coord": "K2",
+          "content": "<18,50",
+          "is_formula": false,
+          "cached_value": "<18,50"
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "cells": [
+        {
+          "coord": "A3",
+          "content": "19",
+          "is_formula": false,
+          "cached_value": 19
+        },
+        {
+          "coord": "B3",
+          "content": "Mujer",
+          "is_formula": false,
+          "cached_value": "Mujer "
+        },
+        {
+          "coord": "J3",
+          "content": "SEVERO",
+          "is_formula": false,
+          "cached_value": "SEVERO"
+        },
+        {
+          "coord": "K3",
+          "content": "<16,00",
+          "is_formula": false,
+          "cached_value": "<16,00"
+        },
+        {
+          "coord": "N3",
+          "content": "DESNUTRICIION",
+          "is_formula": false,
+          "cached_value": "DESNUTRICIION"
+        },
+        {
+          "coord": "O3",
+          "content": "0.7",
+          "is_formula": false,
+          "cached_value": 0.7
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "cells": [
+        {
+          "coord": "A4",
+          "content": "20",
+          "is_formula": false,
+          "cached_value": 20
+        },
+        {
+          "coord": "J4",
+          "content": "MODERADO",
+          "is_formula": false,
+          "cached_value": "MODERADO"
+        },
+        {
+          "coord": "K4",
+          "content": "16",
+          "is_formula": false,
+          "cached_value": 16
+        },
+        {
+          "coord": "L4",
+          "content": "16.99",
+          "is_formula": false,
+          "cached_value": 16.99
+        },
+        {
+          "coord": "N4",
+          "content": "CIRUGIA MENOR",
+          "is_formula": false,
+          "cached_value": "CIRUGIA MENOR"
+        },
+        {
+          "coord": "O4",
+          "content": "1",
+          "is_formula": false,
+          "cached_value": 1
+        },
+        {
+          "coord": "P4",
+          "content": "1.1",
+          "is_formula": false,
+          "cached_value": 1.1
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "cells": [
+        {
+          "coord": "A5",
+          "content": "21",
+          "is_formula": false,
+          "cached_value": 21
+        },
+        {
+          "coord": "J5",
+          "content": "LEVE",
+          "is_formula": false,
+          "cached_value": "LEVE"
+        },
+        {
+          "coord": "K5",
+          "content": "17",
+          "is_formula": false,
+          "cached_value": 17
+        },
+        {
+          "coord": "L5",
+          "content": "18.49",
+          "is_formula": false,
+          "cached_value": 18.49
+        },
+        {
+          "coord": "N5",
+          "content": "FRACTURA LOCALIZADA",
+          "is_formula": false,
+          "cached_value": "FRACTURA LOCALIZADA"
+        },
+        {
+          "coord": "O5",
+          "content": "1.3",
+          "is_formula": false,
+          "cached_value": 1.3
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "cells": [
+        {
+          "coord": "A6",
+          "content": "22",
+          "is_formula": false,
+          "cached_value": 22
+        },
+        {
+          "coord": "J6",
+          "content": "RANGO NORMAL",
+          "is_formula": false,
+          "cached_value": "RANGO NORMAL"
+        },
+        {
+          "coord": "K6",
+          "content": "18.5",
+          "is_formula": false,
+          "cached_value": 18.5
+        },
+        {
+          "coord": "L6",
+          "content": "24.99",
+          "is_formula": false,
+          "cached_value": 24.99
+        },
+        {
+          "coord": "N6",
+          "content": "CANCER",
+          "is_formula": false,
+          "cached_value": "CANCER"
+        },
+        {
+          "coord": "O6",
+          "content": "1.2",
+          "is_formula": false,
+          "cached_value": 1.2
+        },
+        {
+          "coord": "P6",
+          "content": "1.4",
+          "is_formula": false,
+          "cached_value": 1.4
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "cells": [
+        {
+          "coord": "A7",
+          "content": "23",
+          "is_formula": false,
+          "cached_value": 23
+        },
+        {
+          "coord": "J7",
+          "content": "SOBREPESO",
+          "is_formula": false,
+          "cached_value": "SOBREPESO"
+        },
+        {
+          "coord": "K7",
+          "content": ">25,00",
+          "is_formula": false,
+          "cached_value": ">25,00"
+        },
+        {
+          "coord": "N7",
+          "content": "SEPTICEMIAS",
+          "is_formula": false,
+          "cached_value": "SEPTICEMIAS"
+        },
+        {
+          "coord": "O7",
+          "content": "1.3",
+          "is_formula": false,
+          "cached_value": 1.3
+        },
+        {
+          "coord": "P7",
+          "content": "1.6",
+          "is_formula": false,
+          "cached_value": 1.6
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "cells": [
+        {
+          "coord": "A8",
+          "content": "24",
+          "is_formula": false,
+          "cached_value": 24
+        },
+        {
+          "coord": "J8",
+          "content": "PRE-OBESIDAD",
+          "is_formula": false,
+          "cached_value": "PRE-OBESIDAD"
+        },
+        {
+          "coord": "K8",
+          "content": "25",
+          "is_formula": false,
+          "cached_value": 25
+        },
+        {
+          "coord": "L8",
+          "content": "29.99",
+          "is_formula": false,
+          "cached_value": 29.99
+        },
+        {
+          "coord": "N8",
+          "content": "QUEMADURAS",
+          "is_formula": false,
+          "cached_value": "QUEMADURAS"
+        },
+        {
+          "coord": "O8",
+          "content": "1.5",
+          "is_formula": false,
+          "cached_value": 1.5
+        },
+        {
+          "coord": "P8",
+          "content": "2",
+          "is_formula": false,
+          "cached_value": 2
+        }
+      ]
+    },
+    {
+      "row": 9,
+      "cells": [
+        {
+          "coord": "A9",
+          "content": "25",
+          "is_formula": false,
+          "cached_value": 25
+        },
+        {
+          "coord": "J9",
+          "content": "OBESIDAD",
+          "is_formula": false,
+          "cached_value": "OBESIDAD"
+        },
+        {
+          "coord": "K9",
+          "content": ">30,00",
+          "is_formula": false,
+          "cached_value": ">30,00"
+        },
+        {
+          "coord": "N9",
+          "content": "POLITRAUMATISMO",
+          "is_formula": false,
+          "cached_value": "POLITRAUMATISMO"
+        },
+        {
+          "coord": "O9",
+          "content": "1.5",
+          "is_formula": false,
+          "cached_value": 1.5
+        },
+        {
+          "coord": "P9",
+          "content": "2",
+          "is_formula": false,
+          "cached_value": 2
+        }
+      ]
+    },
+    {
+      "row": 10,
+      "cells": [
+        {
+          "coord": "A10",
+          "content": "26",
+          "is_formula": false,
+          "cached_value": 26
+        },
+        {
+          "coord": "J10",
+          "content": "OBESIDAD GRADO I",
+          "is_formula": false,
+          "cached_value": "OBESIDAD GRADO I"
+        },
+        {
+          "coord": "K10",
+          "content": "30",
+          "is_formula": false,
+          "cached_value": 30
+        },
+        {
+          "coord": "L10",
+          "content": "34.99",
+          "is_formula": false,
+          "cached_value": 34.99
+        },
+        {
+          "coord": "N10",
+          "content": "EPOC",
+          "is_formula": false,
+          "cached_value": "EPOC"
+        },
+        {
+          "coord": "O10",
+          "content": "1.5",
+          "is_formula": false,
+          "cached_value": 1.5
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "cells": [
+        {
+          "coord": "A11",
+          "content": "27",
+          "is_formula": false,
+          "cached_value": 27
+        },
+        {
+          "coord": "J11",
+          "content": "OBESIDAD GRADO II",
+          "is_formula": false,
+          "cached_value": "OBESIDAD GRADO II"
+        },
+        {
+          "coord": "K11",
+          "content": "35",
+          "is_formula": false,
+          "cached_value": 35
+        },
+        {
+          "coord": "L11",
+          "content": "39.99",
+          "is_formula": false,
+          "cached_value": 39.99
+        }
+      ]
+    },
+    {
+      "row": 12,
+      "cells": [
+        {
+          "coord": "A12",
+          "content": "28",
+          "is_formula": false,
+          "cached_value": 28
+        },
+        {
+          "coord": "J12",
+          "content": "OBESIDAD GRADO III",
+          "is_formula": false,
+          "cached_value": "OBESIDAD GRADO III"
+        },
+        {
+          "coord": "K12",
+          "content": ">40,00",
+          "is_formula": false,
+          "cached_value": ">40,00"
+        },
+        {
+          "coord": "N12",
+          "content": "Lesión",
+          "is_formula": false,
+          "cached_value": "Lesión"
+        },
+        {
+          "coord": "O12",
+          "content": "Factor",
+          "is_formula": false,
+          "cached_value": "Factor"
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "cells": [
+        {
+          "coord": "A13",
+          "content": "29",
+          "is_formula": false,
+          "cached_value": 29
+        },
+        {
+          "coord": "N13",
+          "content": "Sin complicación",
+          "is_formula": false,
+          "cached_value": "Sin complicación"
+        },
+        {
+          "coord": "O13",
+          "content": "1",
+          "is_formula": false,
+          "cached_value": 1
+        }
+      ]
+    },
+    {
+      "row": 14,
+      "cells": [
+        {
+          "coord": "A14",
+          "content": "30",
+          "is_formula": false,
+          "cached_value": 30
+        },
+        {
+          "coord": "N14",
+          "content": "Post oper. Cáncer",
+          "is_formula": false,
+          "cached_value": "Post oper. Cáncer"
+        },
+        {
+          "coord": "O14",
+          "content": "1.1",
+          "is_formula": false,
+          "cached_value": 1.1
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "cells": [
+        {
+          "coord": "A15",
+          "content": "31",
+          "is_formula": false,
+          "cached_value": 31
+        },
+        {
+          "coord": "K15",
+          "content": "KG",
+          "is_formula": false,
+          "cached_value": "KG"
+        },
+        {
+          "coord": "L15",
+          "content": "%",
+          "is_formula": false,
+          "cached_value": "%"
+        },
+        {
+          "coord": "N15",
+          "content": "Fractura",
+          "is_formula": false,
+          "cached_value": "Fractura"
+        },
+        {
+          "coord": "O15",
+          "content": "1.2",
+          "is_formula": false,
+          "cached_value": 1.2
+        }
+      ]
+    },
+    {
+      "row": 16,
+      "cells": [
+        {
+          "coord": "A16",
+          "content": "32",
+          "is_formula": false,
+          "cached_value": 32
+        },
+        {
+          "coord": "K16",
+          "content": "2",
+          "is_formula": false,
+          "cached_value": 2
+        },
+        {
+          "coord": "L16",
+          "content": "1",
+          "is_formula": false,
+          "cached_value": 1
+        },
+        {
+          "coord": "N16",
+          "content": "Sepsis",
+          "is_formula": false,
+          "cached_value": "Sepsis"
+        },
+        {
+          "coord": "O16",
+          "content": "1.3",
+          "is_formula": false,
+          "cached_value": 1.3
+        }
+      ]
+    },
+    {
+      "row": 17,
+      "cells": [
+        {
+          "coord": "A17",
+          "content": "33",
+          "is_formula": false,
+          "cached_value": 33
+        },
+        {
+          "coord": "K17",
+          "content": "3",
+          "is_formula": false,
+          "cached_value": 3
+        },
+        {
+          "coord": "L17",
+          "content": "2",
+          "is_formula": false,
+          "cached_value": 2
+        },
+        {
+          "coord": "N17",
+          "content": "Peritonitis",
+          "is_formula": false,
+          "cached_value": "Peritonitis"
+        },
+        {
+          "coord": "O17",
+          "content": "1.4",
+          "is_formula": false,
+          "cached_value": 1.4
+        }
+      ]
+    },
+    {
+      "row": 18,
+      "cells": [
+        {
+          "coord": "A18",
+          "content": "34",
+          "is_formula": false,
+          "cached_value": 34
+        },
+        {
+          "coord": "K18",
+          "content": "4",
+          "is_formula": false,
+          "cached_value": 4
+        },
+        {
+          "coord": "L18",
+          "content": "3",
+          "is_formula": false,
+          "cached_value": 3
+        },
+        {
+          "coord": "N18",
+          "content": "Rehabilitación multitrauma",
+          "is_formula": false,
+          "cached_value": "Rehabilitación multitrauma"
+        },
+        {
+          "coord": "O18",
+          "content": "1.5",
+          "is_formula": false,
+          "cached_value": 1.5
+        }
+      ]
+    },
+    {
+      "row": 19,
+      "cells": [
+        {
+          "coord": "A19",
+          "content": "35",
+          "is_formula": false,
+          "cached_value": 35
+        },
+        {
+          "coord": "L19",
+          "content": "4",
+          "is_formula": false,
+          "cached_value": 4
+        },
+        {
+          "coord": "N19",
+          "content": "Multitrauma + sepsis",
+          "is_formula": false,
+          "cached_value": "Multitrauma + sepsis"
+        },
+        {
+          "coord": "O19",
+          "content": "1.6",
+          "is_formula": false,
+          "cached_value": 1.6
+        }
+      ]
+    },
+    {
+      "row": 20,
+      "cells": [
+        {
+          "coord": "A20",
+          "content": "36",
+          "is_formula": false,
+          "cached_value": 36
+        },
+        {
+          "coord": "L20",
+          "content": "5",
+          "is_formula": false,
+          "cached_value": 5
+        },
+        {
+          "coord": "N20",
+          "content": "Quemadura 30-50%",
+          "is_formula": false,
+          "cached_value": "Quemadura 30-50%"
+        },
+        {
+          "coord": "O20",
+          "content": "1.7",
+          "is_formula": false,
+          "cached_value": 1.7
+        }
+      ]
+    },
+    {
+      "row": 21,
+      "cells": [
+        {
+          "coord": "A21",
+          "content": "37",
+          "is_formula": false,
+          "cached_value": 37
+        },
+        {
+          "coord": "L21",
+          "content": "6",
+          "is_formula": false,
+          "cached_value": 6
+        },
+        {
+          "coord": "N21",
+          "content": "Quemadura 50-70%",
+          "is_formula": false,
+          "cached_value": "Quemadura 50-70%"
+        },
+        {
+          "coord": "O21",
+          "content": "1.8",
+          "is_formula": false,
+          "cached_value": 1.8
+        }
+      ]
+    },
+    {
+      "row": 22,
+      "cells": [
+        {
+          "coord": "A22",
+          "content": "38",
+          "is_formula": false,
+          "cached_value": 38
+        },
+        {
+          "coord": "L22",
+          "content": "7",
+          "is_formula": false,
+          "cached_value": 7
+        },
+        {
+          "coord": "N22",
+          "content": "Quemadura 70-90%",
+          "is_formula": false,
+          "cached_value": "Quemadura 70-90%"
+        },
+        {
+          "coord": "O22",
+          "content": "2",
+          "is_formula": false,
+          "cached_value": 2
+        }
+      ]
+    },
+    {
+      "row": 23,
+      "cells": [
+        {
+          "coord": "A23",
+          "content": "39",
+          "is_formula": false,
+          "cached_value": 39
+        },
+        {
+          "coord": "L23",
+          "content": "8",
+          "is_formula": false,
+          "cached_value": 8
+        }
+      ]
+    },
+    {
+      "row": 24,
+      "cells": [
+        {
+          "coord": "A24",
+          "content": "40",
+          "is_formula": false,
+          "cached_value": 40
+        },
+        {
+          "coord": "L24",
+          "content": "9",
+          "is_formula": false,
+          "cached_value": 9
+        }
+      ]
+    },
+    {
+      "row": 25,
+      "cells": [
+        {
+          "coord": "A25",
+          "content": "41",
+          "is_formula": false,
+          "cached_value": 41
+        },
+        {
+          "coord": "L25",
+          "content": "10",
+          "is_formula": false,
+          "cached_value": 10
+        }
+      ]
+    },
+    {
+      "row": 26,
+      "cells": [
+        {
+          "coord": "A26",
+          "content": "42",
+          "is_formula": false,
+          "cached_value": 42
+        },
+        {
+          "coord": "L26",
+          "content": "11",
+          "is_formula": false,
+          "cached_value": 11
+        },
+        {
+          "coord": "N26",
+          "content": "Grupo",
+          "is_formula": false,
+          "cached_value": "Grupo "
+        },
+        {
+          "coord": "O26",
+          "content": "Caloría",
+          "is_formula": false,
+          "cached_value": "Caloría "
+        },
+        {
+          "coord": "P26",
+          "content": "Carbohidratos",
+          "is_formula": false,
+          "cached_value": "Carbohidratos"
+        },
+        {
+          "coord": "Q26",
+          "content": "Lípidos",
+          "is_formula": false,
+          "cached_value": "Lípidos "
+        },
+        {
+          "coord": "R26",
+          "content": "Proteínas",
+          "is_formula": false,
+          "cached_value": "Proteínas "
+        }
+      ]
+    },
+    {
+      "row": 27,
+      "cells": [
+        {
+          "coord": "A27",
+          "content": "43",
+          "is_formula": false,
+          "cached_value": 43
+        },
+        {
+          "coord": "L27",
+          "content": "12",
+          "is_formula": false,
+          "cached_value": 12
+        },
+        {
+          "coord": "N27",
+          "content": "cereales",
+          "is_formula": false,
+          "cached_value": "cereales "
+        },
+        {
+          "coord": "O27",
+          "content": "140",
+          "is_formula": false,
+          "cached_value": 140
+        },
+        {
+          "coord": "P27",
+          "content": "30",
+          "is_formula": false,
+          "cached_value": 30
+        },
+        {
+          "coord": "Q27",
+          "content": "1",
+          "is_formula": false,
+          "cached_value": 1
+        },
+        {
+          "coord": "R27",
+          "content": "3",
+          "is_formula": false,
+          "cached_value": 3
+        }
+      ]
+    },
+    {
+      "row": 28,
+      "cells": [
+        {
+          "coord": "A28",
+          "content": "44",
+          "is_formula": false,
+          "cached_value": 44
+        },
+        {
+          "coord": "L28",
+          "content": "13",
+          "is_formula": false,
+          "cached_value": 13
+        },
+        {
+          "coord": "N28",
+          "content": "verduras en general",
+          "is_formula": false,
+          "cached_value": "verduras en general "
+        },
+        {
+          "coord": "O28",
+          "content": "30",
+          "is_formula": false,
+          "cached_value": 30
+        },
+        {
+          "coord": "P28",
+          "content": "5",
+          "is_formula": false,
+          "cached_value": 5
+        },
+        {
+          "coord": "Q28",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        },
+        {
+          "coord": "R28",
+          "content": "2",
+          "is_formula": false,
+          "cached_value": 2
+        }
+      ]
+    },
+    {
+      "row": 29,
+      "cells": [
+        {
+          "coord": "A29",
+          "content": "45",
+          "is_formula": false,
+          "cached_value": 45
+        },
+        {
+          "coord": "L29",
+          "content": "14",
+          "is_formula": false,
+          "cached_value": 14
+        },
+        {
+          "coord": "N29",
+          "content": "verduras libre consumo",
+          "is_formula": false,
+          "cached_value": "verduras libre consumo"
+        },
+        {
+          "coord": "O29",
+          "content": "10",
+          "is_formula": false,
+          "cached_value": 10
+        },
+        {
+          "coord": "P29",
+          "content": "2.5",
+          "is_formula": false,
+          "cached_value": 2.5
+        },
+        {
+          "coord": "Q29",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        },
+        {
+          "coord": "R29",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 30,
+      "cells": [
+        {
+          "coord": "A30",
+          "content": "46",
+          "is_formula": false,
+          "cached_value": 46
+        },
+        {
+          "coord": "L30",
+          "content": "15",
+          "is_formula": false,
+          "cached_value": 15
+        },
+        {
+          "coord": "N30",
+          "content": "frutas",
+          "is_formula": false,
+          "cached_value": "frutas"
+        },
+        {
+          "coord": "O30",
+          "content": "65",
+          "is_formula": false,
+          "cached_value": 65
+        },
+        {
+          "coord": "P30",
+          "content": "15",
+          "is_formula": false,
+          "cached_value": 15
+        },
+        {
+          "coord": "Q30",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        },
+        {
+          "coord": "R30",
+          "content": "1",
+          "is_formula": false,
+          "cached_value": 1
+        }
+      ]
+    },
+    {
+      "row": 31,
+      "cells": [
+        {
+          "coord": "A31",
+          "content": "47",
+          "is_formula": false,
+          "cached_value": 47
+        },
+        {
+          "coord": "L31",
+          "content": "16",
+          "is_formula": false,
+          "cached_value": 16
+        },
+        {
+          "coord": "N31",
+          "content": "carnes altas en grasa",
+          "is_formula": false,
+          "cached_value": "carnes altas en grasa"
+        },
+        {
+          "coord": "O31",
+          "content": "120",
+          "is_formula": false,
+          "cached_value": 120
+        },
+        {
+          "coord": "P31",
+          "content": "1",
+          "is_formula": false,
+          "cached_value": 1
+        },
+        {
+          "coord": "Q31",
+          "content": "8",
+          "is_formula": false,
+          "cached_value": 8
+        },
+        {
+          "coord": "R31",
+          "content": "11",
+          "is_formula": false,
+          "cached_value": 11
+        }
+      ]
+    },
+    {
+      "row": 32,
+      "cells": [
+        {
+          "coord": "A32",
+          "content": "48",
+          "is_formula": false,
+          "cached_value": 48
+        },
+        {
+          "coord": "L32",
+          "content": "17",
+          "is_formula": false,
+          "cached_value": 17
+        },
+        {
+          "coord": "N32",
+          "content": "carnes bajas en grasa",
+          "is_formula": false,
+          "cached_value": "carnes bajas en grasa"
+        },
+        {
+          "coord": "O32",
+          "content": "65",
+          "is_formula": false,
+          "cached_value": 65
+        },
+        {
+          "coord": "P32",
+          "content": "1",
+          "is_formula": false,
+          "cached_value": 1
+        },
+        {
+          "coord": "Q32",
+          "content": "2",
+          "is_formula": false,
+          "cached_value": 2
+        },
+        {
+          "coord": "R32",
+          "content": "11",
+          "is_formula": false,
+          "cached_value": 11
+        }
+      ]
+    },
+    {
+      "row": 33,
+      "cells": [
+        {
+          "coord": "A33",
+          "content": "49",
+          "is_formula": false,
+          "cached_value": 49
+        },
+        {
+          "coord": "L33",
+          "content": "18",
+          "is_formula": false,
+          "cached_value": 18
+        },
+        {
+          "coord": "N33",
+          "content": "leguminosas",
+          "is_formula": false,
+          "cached_value": "leguminosas "
+        },
+        {
+          "coord": "O33",
+          "content": "170",
+          "is_formula": false,
+          "cached_value": 170
+        },
+        {
+          "coord": "P33",
+          "content": "30",
+          "is_formula": false,
+          "cached_value": 30
+        },
+        {
+          "coord": "Q33",
+          "content": "1",
+          "is_formula": false,
+          "cached_value": 1
+        },
+        {
+          "coord": "R33",
+          "content": "11",
+          "is_formula": false,
+          "cached_value": 11
+        }
+      ]
+    },
+    {
+      "row": 34,
+      "cells": [
+        {
+          "coord": "A34",
+          "content": "50",
+          "is_formula": false,
+          "cached_value": 50
+        },
+        {
+          "coord": "L34",
+          "content": "19",
+          "is_formula": false,
+          "cached_value": 19
+        },
+        {
+          "coord": "N34",
+          "content": "lacteos altos en grasa",
+          "is_formula": false,
+          "cached_value": "lacteos altos en grasa "
+        },
+        {
+          "coord": "O34",
+          "content": "110",
+          "is_formula": false,
+          "cached_value": 110
+        },
+        {
+          "coord": "P34",
+          "content": "9",
+          "is_formula": false,
+          "cached_value": 9
+        },
+        {
+          "coord": "Q34",
+          "content": "6",
+          "is_formula": false,
+          "cached_value": 6
+        },
+        {
+          "coord": "R34",
+          "content": "5",
+          "is_formula": false,
+          "cached_value": 5
+        }
+      ]
+    },
+    {
+      "row": 35,
+      "cells": [
+        {
+          "coord": "A35",
+          "content": "51",
+          "is_formula": false,
+          "cached_value": 51
+        },
+        {
+          "coord": "L35",
+          "content": "20",
+          "is_formula": false,
+          "cached_value": 20
+        },
+        {
+          "coord": "N35",
+          "content": "lacteos medios en grasa",
+          "is_formula": false,
+          "cached_value": "lacteos medios en grasa"
+        },
+        {
+          "coord": "O35",
+          "content": "85",
+          "is_formula": false,
+          "cached_value": 85
+        },
+        {
+          "coord": "P35",
+          "content": "9",
+          "is_formula": false,
+          "cached_value": 9
+        },
+        {
+          "coord": "Q35",
+          "content": "3",
+          "is_formula": false,
+          "cached_value": 3
+        },
+        {
+          "coord": "R35",
+          "content": "5",
+          "is_formula": false,
+          "cached_value": 5
+        }
+      ]
+    },
+    {
+      "row": 36,
+      "cells": [
+        {
+          "coord": "A36",
+          "content": "52",
+          "is_formula": false,
+          "cached_value": 52
+        },
+        {
+          "coord": "L36",
+          "content": "21",
+          "is_formula": false,
+          "cached_value": 21
+        },
+        {
+          "coord": "N36",
+          "content": "lacteos bajos en grasa",
+          "is_formula": false,
+          "cached_value": "lacteos bajos en grasa "
+        },
+        {
+          "coord": "O36",
+          "content": "70",
+          "is_formula": false,
+          "cached_value": 70
+        },
+        {
+          "coord": "P36",
+          "content": "10",
+          "is_formula": false,
+          "cached_value": 10
+        },
+        {
+          "coord": "Q36",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        },
+        {
+          "coord": "R36",
+          "content": "7",
+          "is_formula": false,
+          "cached_value": 7
+        }
+      ]
+    },
+    {
+      "row": 37,
+      "cells": [
+        {
+          "coord": "A37",
+          "content": "53",
+          "is_formula": false,
+          "cached_value": 53
+        },
+        {
+          "coord": "L37",
+          "content": "22",
+          "is_formula": false,
+          "cached_value": 22
+        },
+        {
+          "coord": "N37",
+          "content": "aceites y grasas",
+          "is_formula": false,
+          "cached_value": "aceites y grasas "
+        },
+        {
+          "coord": "O37",
+          "content": "180",
+          "is_formula": false,
+          "cached_value": 180
+        },
+        {
+          "coord": "P37",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        },
+        {
+          "coord": "Q37",
+          "content": "20",
+          "is_formula": false,
+          "cached_value": 20
+        },
+        {
+          "coord": "R37",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 38,
+      "cells": [
+        {
+          "coord": "A38",
+          "content": "54",
+          "is_formula": false,
+          "cached_value": 54
+        },
+        {
+          "coord": "L38",
+          "content": "23",
+          "is_formula": false,
+          "cached_value": 23
+        },
+        {
+          "coord": "N38",
+          "content": "alimentos rics en lipidos",
+          "is_formula": false,
+          "cached_value": "alimentos rics en lipidos "
+        },
+        {
+          "coord": "O38",
+          "content": "175",
+          "is_formula": false,
+          "cached_value": 175
+        },
+        {
+          "coord": "P38",
+          "content": "5",
+          "is_formula": false,
+          "cached_value": 5
+        },
+        {
+          "coord": "Q38",
+          "content": "15",
+          "is_formula": false,
+          "cached_value": 15
+        },
+        {
+          "coord": "R38",
+          "content": "5",
+          "is_formula": false,
+          "cached_value": 5
+        }
+      ]
+    },
+    {
+      "row": 39,
+      "cells": [
+        {
+          "coord": "A39",
+          "content": "55",
+          "is_formula": false,
+          "cached_value": 55
+        },
+        {
+          "coord": "L39",
+          "content": "24",
+          "is_formula": false,
+          "cached_value": 24
+        },
+        {
+          "coord": "N39",
+          "content": "azucar",
+          "is_formula": false,
+          "cached_value": "azucar "
+        },
+        {
+          "coord": "O39",
+          "content": "20",
+          "is_formula": false,
+          "cached_value": 20
+        },
+        {
+          "coord": "P39",
+          "content": "5",
+          "is_formula": false,
+          "cached_value": 5
+        },
+        {
+          "coord": "Q39",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        },
+        {
+          "coord": "R39",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 40,
+      "cells": [
+        {
+          "coord": "A40",
+          "content": "56",
+          "is_formula": false,
+          "cached_value": 56
+        },
+        {
+          "coord": "L40",
+          "content": "25",
+          "is_formula": false,
+          "cached_value": 25
+        }
+      ]
+    },
+    {
+      "row": 41,
+      "cells": [
+        {
+          "coord": "A41",
+          "content": "57",
+          "is_formula": false,
+          "cached_value": 57
+        },
+        {
+          "coord": "L41",
+          "content": "26",
+          "is_formula": false,
+          "cached_value": 26
+        }
+      ]
+    },
+    {
+      "row": 42,
+      "cells": [
+        {
+          "coord": "A42",
+          "content": "58",
+          "is_formula": false,
+          "cached_value": 58
+        },
+        {
+          "coord": "L42",
+          "content": "27",
+          "is_formula": false,
+          "cached_value": 27
+        }
+      ]
+    },
+    {
+      "row": 43,
+      "cells": [
+        {
+          "coord": "A43",
+          "content": "59",
+          "is_formula": false,
+          "cached_value": 59
+        },
+        {
+          "coord": "L43",
+          "content": "28",
+          "is_formula": false,
+          "cached_value": 28
+        }
+      ]
+    },
+    {
+      "row": 44,
+      "cells": [
+        {
+          "coord": "A44",
+          "content": "60",
+          "is_formula": false,
+          "cached_value": 60
+        },
+        {
+          "coord": "L44",
+          "content": "29",
+          "is_formula": false,
+          "cached_value": 29
+        }
+      ]
+    },
+    {
+      "row": 45,
+      "cells": [
+        {
+          "coord": "A45",
+          "content": "61",
+          "is_formula": false,
+          "cached_value": 61
+        },
+        {
+          "coord": "L45",
+          "content": "30",
+          "is_formula": false,
+          "cached_value": 30
+        }
+      ]
+    },
+    {
+      "row": 46,
+      "cells": [
+        {
+          "coord": "A46",
+          "content": "62",
+          "is_formula": false,
+          "cached_value": 62
+        },
+        {
+          "coord": "L46",
+          "content": "31",
+          "is_formula": false,
+          "cached_value": 31
+        }
+      ]
+    },
+    {
+      "row": 47,
+      "cells": [
+        {
+          "coord": "A47",
+          "content": "63",
+          "is_formula": false,
+          "cached_value": 63
+        },
+        {
+          "coord": "L47",
+          "content": "32",
+          "is_formula": false,
+          "cached_value": 32
+        }
+      ]
+    },
+    {
+      "row": 48,
+      "cells": [
+        {
+          "coord": "A48",
+          "content": "64",
+          "is_formula": false,
+          "cached_value": 64
+        },
+        {
+          "coord": "L48",
+          "content": "33",
+          "is_formula": false,
+          "cached_value": 33
+        }
+      ]
+    },
+    {
+      "row": 49,
+      "cells": [
+        {
+          "coord": "A49",
+          "content": "65",
+          "is_formula": false,
+          "cached_value": 65
+        },
+        {
+          "coord": "L49",
+          "content": "34",
+          "is_formula": false,
+          "cached_value": 34
+        }
+      ]
+    },
+    {
+      "row": 50,
+      "cells": [
+        {
+          "coord": "A50",
+          "content": "66",
+          "is_formula": false,
+          "cached_value": 66
+        },
+        {
+          "coord": "L50",
+          "content": "35",
+          "is_formula": false,
+          "cached_value": 35
+        }
+      ]
+    },
+    {
+      "row": 51,
+      "cells": [
+        {
+          "coord": "A51",
+          "content": "67",
+          "is_formula": false,
+          "cached_value": 67
+        },
+        {
+          "coord": "L51",
+          "content": "36",
+          "is_formula": false,
+          "cached_value": 36
+        }
+      ]
+    },
+    {
+      "row": 52,
+      "cells": [
+        {
+          "coord": "A52",
+          "content": "68",
+          "is_formula": false,
+          "cached_value": 68
+        },
+        {
+          "coord": "L52",
+          "content": "37",
+          "is_formula": false,
+          "cached_value": 37
+        }
+      ]
+    },
+    {
+      "row": 53,
+      "cells": [
+        {
+          "coord": "A53",
+          "content": "69",
+          "is_formula": false,
+          "cached_value": 69
+        },
+        {
+          "coord": "L53",
+          "content": "38",
+          "is_formula": false,
+          "cached_value": 38
+        }
+      ]
+    },
+    {
+      "row": 54,
+      "cells": [
+        {
+          "coord": "A54",
+          "content": "70",
+          "is_formula": false,
+          "cached_value": 70
+        },
+        {
+          "coord": "L54",
+          "content": "39",
+          "is_formula": false,
+          "cached_value": 39
+        }
+      ]
+    },
+    {
+      "row": 55,
+      "cells": [
+        {
+          "coord": "A55",
+          "content": "71",
+          "is_formula": false,
+          "cached_value": 71
+        },
+        {
+          "coord": "L55",
+          "content": "40",
+          "is_formula": false,
+          "cached_value": 40
+        }
+      ]
+    },
+    {
+      "row": 56,
+      "cells": [
+        {
+          "coord": "A56",
+          "content": "72",
+          "is_formula": false,
+          "cached_value": 72
+        },
+        {
+          "coord": "L56",
+          "content": "41",
+          "is_formula": false,
+          "cached_value": 41
+        }
+      ]
+    },
+    {
+      "row": 57,
+      "cells": [
+        {
+          "coord": "A57",
+          "content": "73",
+          "is_formula": false,
+          "cached_value": 73
+        },
+        {
+          "coord": "L57",
+          "content": "42",
+          "is_formula": false,
+          "cached_value": 42
+        }
+      ]
+    },
+    {
+      "row": 58,
+      "cells": [
+        {
+          "coord": "A58",
+          "content": "74",
+          "is_formula": false,
+          "cached_value": 74
+        },
+        {
+          "coord": "L58",
+          "content": "43",
+          "is_formula": false,
+          "cached_value": 43
+        }
+      ]
+    },
+    {
+      "row": 59,
+      "cells": [
+        {
+          "coord": "A59",
+          "content": "75",
+          "is_formula": false,
+          "cached_value": 75
+        },
+        {
+          "coord": "L59",
+          "content": "44",
+          "is_formula": false,
+          "cached_value": 44
+        }
+      ]
+    },
+    {
+      "row": 60,
+      "cells": [
+        {
+          "coord": "A60",
+          "content": "76",
+          "is_formula": false,
+          "cached_value": 76
+        },
+        {
+          "coord": "L60",
+          "content": "45",
+          "is_formula": false,
+          "cached_value": 45
+        }
+      ]
+    },
+    {
+      "row": 61,
+      "cells": [
+        {
+          "coord": "A61",
+          "content": "77",
+          "is_formula": false,
+          "cached_value": 77
+        },
+        {
+          "coord": "L61",
+          "content": "46",
+          "is_formula": false,
+          "cached_value": 46
+        }
+      ]
+    },
+    {
+      "row": 62,
+      "cells": [
+        {
+          "coord": "A62",
+          "content": "78",
+          "is_formula": false,
+          "cached_value": 78
+        },
+        {
+          "coord": "L62",
+          "content": "47",
+          "is_formula": false,
+          "cached_value": 47
+        }
+      ]
+    },
+    {
+      "row": 63,
+      "cells": [
+        {
+          "coord": "A63",
+          "content": "79",
+          "is_formula": false,
+          "cached_value": 79
+        },
+        {
+          "coord": "L63",
+          "content": "48",
+          "is_formula": false,
+          "cached_value": 48
+        }
+      ]
+    },
+    {
+      "row": 64,
+      "cells": [
+        {
+          "coord": "A64",
+          "content": "80",
+          "is_formula": false,
+          "cached_value": 80
+        },
+        {
+          "coord": "L64",
+          "content": "49",
+          "is_formula": false,
+          "cached_value": 49
+        }
+      ]
+    },
+    {
+      "row": 65,
+      "cells": [
+        {
+          "coord": "A65",
+          "content": "81",
+          "is_formula": false,
+          "cached_value": 81
+        },
+        {
+          "coord": "L65",
+          "content": "50",
+          "is_formula": false,
+          "cached_value": 50
+        }
+      ]
+    },
+    {
+      "row": 66,
+      "cells": [
+        {
+          "coord": "A66",
+          "content": "82",
+          "is_formula": false,
+          "cached_value": 82
+        },
+        {
+          "coord": "L66",
+          "content": "51",
+          "is_formula": false,
+          "cached_value": 51
+        }
+      ]
+    },
+    {
+      "row": 67,
+      "cells": [
+        {
+          "coord": "A67",
+          "content": "83",
+          "is_formula": false,
+          "cached_value": 83
+        },
+        {
+          "coord": "L67",
+          "content": "52",
+          "is_formula": false,
+          "cached_value": 52
+        }
+      ]
+    },
+    {
+      "row": 68,
+      "cells": [
+        {
+          "coord": "A68",
+          "content": "84",
+          "is_formula": false,
+          "cached_value": 84
+        },
+        {
+          "coord": "L68",
+          "content": "53",
+          "is_formula": false,
+          "cached_value": 53
+        }
+      ]
+    },
+    {
+      "row": 69,
+      "cells": [
+        {
+          "coord": "A69",
+          "content": "85",
+          "is_formula": false,
+          "cached_value": 85
+        },
+        {
+          "coord": "L69",
+          "content": "54",
+          "is_formula": false,
+          "cached_value": 54
+        }
+      ]
+    },
+    {
+      "row": 70,
+      "cells": [
+        {
+          "coord": "A70",
+          "content": "86",
+          "is_formula": false,
+          "cached_value": 86
+        },
+        {
+          "coord": "L70",
+          "content": "55",
+          "is_formula": false,
+          "cached_value": 55
+        }
+      ]
+    },
+    {
+      "row": 71,
+      "cells": [
+        {
+          "coord": "A71",
+          "content": "87",
+          "is_formula": false,
+          "cached_value": 87
+        },
+        {
+          "coord": "L71",
+          "content": "56",
+          "is_formula": false,
+          "cached_value": 56
+        }
+      ]
+    },
+    {
+      "row": 72,
+      "cells": [
+        {
+          "coord": "A72",
+          "content": "88",
+          "is_formula": false,
+          "cached_value": 88
+        },
+        {
+          "coord": "L72",
+          "content": "57",
+          "is_formula": false,
+          "cached_value": 57
+        }
+      ]
+    },
+    {
+      "row": 73,
+      "cells": [
+        {
+          "coord": "A73",
+          "content": "89",
+          "is_formula": false,
+          "cached_value": 89
+        },
+        {
+          "coord": "L73",
+          "content": "58",
+          "is_formula": false,
+          "cached_value": 58
+        }
+      ]
+    },
+    {
+      "row": 74,
+      "cells": [
+        {
+          "coord": "A74",
+          "content": "90",
+          "is_formula": false,
+          "cached_value": 90
+        },
+        {
+          "coord": "L74",
+          "content": "59",
+          "is_formula": false,
+          "cached_value": 59
+        }
+      ]
+    },
+    {
+      "row": 75,
+      "cells": [
+        {
+          "coord": "A75",
+          "content": "91",
+          "is_formula": false,
+          "cached_value": 91
+        },
+        {
+          "coord": "L75",
+          "content": "60",
+          "is_formula": false,
+          "cached_value": 60
+        }
+      ]
+    },
+    {
+      "row": 76,
+      "cells": [
+        {
+          "coord": "A76",
+          "content": "92",
+          "is_formula": false,
+          "cached_value": 92
+        },
+        {
+          "coord": "L76",
+          "content": "61",
+          "is_formula": false,
+          "cached_value": 61
+        }
+      ]
+    },
+    {
+      "row": 77,
+      "cells": [
+        {
+          "coord": "A77",
+          "content": "93",
+          "is_formula": false,
+          "cached_value": 93
+        },
+        {
+          "coord": "L77",
+          "content": "62",
+          "is_formula": false,
+          "cached_value": 62
+        }
+      ]
+    },
+    {
+      "row": 78,
+      "cells": [
+        {
+          "coord": "A78",
+          "content": "94",
+          "is_formula": false,
+          "cached_value": 94
+        },
+        {
+          "coord": "L78",
+          "content": "63",
+          "is_formula": false,
+          "cached_value": 63
+        }
+      ]
+    },
+    {
+      "row": 79,
+      "cells": [
+        {
+          "coord": "A79",
+          "content": "95",
+          "is_formula": false,
+          "cached_value": 95
+        },
+        {
+          "coord": "L79",
+          "content": "64",
+          "is_formula": false,
+          "cached_value": 64
+        }
+      ]
+    },
+    {
+      "row": 80,
+      "cells": [
+        {
+          "coord": "A80",
+          "content": "96",
+          "is_formula": false,
+          "cached_value": 96
+        },
+        {
+          "coord": "L80",
+          "content": "65",
+          "is_formula": false,
+          "cached_value": 65
+        }
+      ]
+    },
+    {
+      "row": 81,
+      "cells": [
+        {
+          "coord": "A81",
+          "content": "97",
+          "is_formula": false,
+          "cached_value": 97
+        },
+        {
+          "coord": "L81",
+          "content": "66",
+          "is_formula": false,
+          "cached_value": 66
+        }
+      ]
+    },
+    {
+      "row": 82,
+      "cells": [
+        {
+          "coord": "A82",
+          "content": "98",
+          "is_formula": false,
+          "cached_value": 98
+        },
+        {
+          "coord": "L82",
+          "content": "67",
+          "is_formula": false,
+          "cached_value": 67
+        }
+      ]
+    },
+    {
+      "row": 83,
+      "cells": [
+        {
+          "coord": "A83",
+          "content": "99",
+          "is_formula": false,
+          "cached_value": 99
+        },
+        {
+          "coord": "L83",
+          "content": "68",
+          "is_formula": false,
+          "cached_value": 68
+        }
+      ]
+    },
+    {
+      "row": 84,
+      "cells": [
+        {
+          "coord": "A84",
+          "content": "100",
+          "is_formula": false,
+          "cached_value": 100
+        },
+        {
+          "coord": "L84",
+          "content": "69",
+          "is_formula": false,
+          "cached_value": 69
+        }
+      ]
+    },
+    {
+      "row": 85,
+      "cells": [
+        {
+          "coord": "L85",
+          "content": "70",
+          "is_formula": false,
+          "cached_value": 70
+        }
+      ]
+    },
+    {
+      "row": 86,
+      "cells": [
+        {
+          "coord": "L86",
+          "content": "71",
+          "is_formula": false,
+          "cached_value": 71
+        }
+      ]
+    },
+    {
+      "row": 87,
+      "cells": [
+        {
+          "coord": "L87",
+          "content": "72",
+          "is_formula": false,
+          "cached_value": 72
+        }
+      ]
+    },
+    {
+      "row": 88,
+      "cells": [
+        {
+          "coord": "L88",
+          "content": "73",
+          "is_formula": false,
+          "cached_value": 73
+        }
+      ]
+    },
+    {
+      "row": 89,
+      "cells": [
+        {
+          "coord": "L89",
+          "content": "74",
+          "is_formula": false,
+          "cached_value": 74
+        }
+      ]
+    },
+    {
+      "row": 90,
+      "cells": [
+        {
+          "coord": "L90",
+          "content": "75",
+          "is_formula": false,
+          "cached_value": 75
+        }
+      ]
+    },
+    {
+      "row": 91,
+      "cells": [
+        {
+          "coord": "L91",
+          "content": "76",
+          "is_formula": false,
+          "cached_value": 76
+        }
+      ]
+    },
+    {
+      "row": 92,
+      "cells": [
+        {
+          "coord": "L92",
+          "content": "77",
+          "is_formula": false,
+          "cached_value": 77
+        }
+      ]
+    },
+    {
+      "row": 93,
+      "cells": [
+        {
+          "coord": "L93",
+          "content": "78",
+          "is_formula": false,
+          "cached_value": 78
+        }
+      ]
+    },
+    {
+      "row": 94,
+      "cells": [
+        {
+          "coord": "L94",
+          "content": "79",
+          "is_formula": false,
+          "cached_value": 79
+        }
+      ]
+    },
+    {
+      "row": 95,
+      "cells": [
+        {
+          "coord": "L95",
+          "content": "80",
+          "is_formula": false,
+          "cached_value": 80
+        }
+      ]
+    },
+    {
+      "row": 96,
+      "cells": [
+        {
+          "coord": "L96",
+          "content": "81",
+          "is_formula": false,
+          "cached_value": 81
+        }
+      ]
+    },
+    {
+      "row": 97,
+      "cells": [
+        {
+          "coord": "L97",
+          "content": "82",
+          "is_formula": false,
+          "cached_value": 82
+        }
+      ]
+    },
+    {
+      "row": 98,
+      "cells": [
+        {
+          "coord": "L98",
+          "content": "83",
+          "is_formula": false,
+          "cached_value": 83
+        }
+      ]
+    },
+    {
+      "row": 99,
+      "cells": [
+        {
+          "coord": "L99",
+          "content": "84",
+          "is_formula": false,
+          "cached_value": 84
+        }
+      ]
+    },
+    {
+      "row": 100,
+      "cells": [
+        {
+          "coord": "L100",
+          "content": "85",
+          "is_formula": false,
+          "cached_value": 85
+        }
+      ]
+    },
+    {
+      "row": 101,
+      "cells": [
+        {
+          "coord": "L101",
+          "content": "86",
+          "is_formula": false,
+          "cached_value": 86
+        }
+      ]
+    },
+    {
+      "row": 102,
+      "cells": [
+        {
+          "coord": "L102",
+          "content": "87",
+          "is_formula": false,
+          "cached_value": 87
+        }
+      ]
+    },
+    {
+      "row": 103,
+      "cells": [
+        {
+          "coord": "L103",
+          "content": "88",
+          "is_formula": false,
+          "cached_value": 88
+        }
+      ]
+    },
+    {
+      "row": 104,
+      "cells": [
+        {
+          "coord": "L104",
+          "content": "89",
+          "is_formula": false,
+          "cached_value": 89
+        }
+      ]
+    },
+    {
+      "row": 105,
+      "cells": [
+        {
+          "coord": "L105",
+          "content": "90",
+          "is_formula": false,
+          "cached_value": 90
+        }
+      ]
+    },
+    {
+      "row": 106,
+      "cells": [
+        {
+          "coord": "L106",
+          "content": "91",
+          "is_formula": false,
+          "cached_value": 91
+        }
+      ]
+    },
+    {
+      "row": 107,
+      "cells": [
+        {
+          "coord": "L107",
+          "content": "92",
+          "is_formula": false,
+          "cached_value": 92
+        }
+      ]
+    },
+    {
+      "row": 108,
+      "cells": [
+        {
+          "coord": "L108",
+          "content": "93",
+          "is_formula": false,
+          "cached_value": 93
+        }
+      ]
+    },
+    {
+      "row": 109,
+      "cells": [
+        {
+          "coord": "L109",
+          "content": "94",
+          "is_formula": false,
+          "cached_value": 94
+        }
+      ]
+    },
+    {
+      "row": 110,
+      "cells": [
+        {
+          "coord": "L110",
+          "content": "95",
+          "is_formula": false,
+          "cached_value": 95
+        }
+      ]
+    },
+    {
+      "row": 111,
+      "cells": [
+        {
+          "coord": "L111",
+          "content": "96",
+          "is_formula": false,
+          "cached_value": 96
+        }
+      ]
+    },
+    {
+      "row": 112,
+      "cells": [
+        {
+          "coord": "L112",
+          "content": "97",
+          "is_formula": false,
+          "cached_value": 97
+        }
+      ]
+    },
+    {
+      "row": 113,
+      "cells": [
+        {
+          "coord": "L113",
+          "content": "98",
+          "is_formula": false,
+          "cached_value": 98
+        }
+      ]
+    },
+    {
+      "row": 114,
+      "cells": [
+        {
+          "coord": "L114",
+          "content": "99",
+          "is_formula": false,
+          "cached_value": 99
+        }
+      ]
+    },
+    {
+      "row": 115,
+      "cells": [
+        {
+          "coord": "L115",
+          "content": "100",
+          "is_formula": false,
+          "cached_value": 100
+        }
+      ]
+    }
+  ],
+  "HOMBRE Adulto & A. Mayor": [
+    {
+      "row": 1,
+      "cells": [
+        {
+          "coord": "A1",
+          "content": "79",
+          "is_formula": false,
+          "cached_value": 79
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "cells": [
+        {
+          "coord": "B2",
+          "content": "EDAD (AÑOS)",
+          "is_formula": false,
+          "cached_value": "EDAD (AÑOS)"
+        },
+        {
+          "coord": "C2",
+          "content": "PESO REAL (KG)",
+          "is_formula": false,
+          "cached_value": "PESO REAL (KG)"
+        },
+        {
+          "coord": "D2",
+          "content": "TALLA (MT)",
+          "is_formula": false,
+          "cached_value": "TALLA (MT)"
+        },
+        {
+          "coord": "E2",
+          "content": "PT (MM)",
+          "is_formula": false,
+          "cached_value": "PT (MM)"
+        },
+        {
+          "coord": "F2",
+          "content": "CB (MM)",
+          "is_formula": false,
+          "cached_value": "CB (MM)"
+        },
+        {
+          "coord": "G2",
+          "content": "A. RODILLA",
+          "is_formula": false,
+          "cached_value": "A. RODILLA"
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "cells": [
+        {
+          "coord": "B3",
+          "content": "22",
+          "is_formula": false,
+          "cached_value": 22
+        },
+        {
+          "coord": "C3",
+          "content": "85",
+          "is_formula": false,
+          "cached_value": 85
+        },
+        {
+          "coord": "D3",
+          "content": "1.78",
+          "is_formula": false,
+          "cached_value": 1.78
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "cells": [
+        {
+          "coord": "C5",
+          "content": "Adulto",
+          "is_formula": false,
+          "cached_value": "Adulto"
+        },
+        {
+          "coord": "D5",
+          "content": "Adulto M.",
+          "is_formula": false,
+          "cached_value": "Adulto M."
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "cells": [
+        {
+          "coord": "B6",
+          "content": "IMC",
+          "is_formula": false,
+          "cached_value": "IMC"
+        },
+        {
+          "coord": "C6",
+          "content": "=C3/(D3^2)",
+          "is_formula": true,
+          "cached_value": 26.82742078020452
+        },
+        {
+          "coord": "D6",
+          "content": "=C3/(D3^2)",
+          "is_formula": true,
+          "cached_value": 26.82742078020452
+        },
+        {
+          "coord": "F6",
+          "content": "PMB (mm)",
+          "is_formula": false,
+          "cached_value": "PMB (mm)"
+        },
+        {
+          "coord": "G6",
+          "content": "=(F3-(3.14*E3))",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "cells": [
+        {
+          "coord": "B7",
+          "content": "P MIN.",
+          "is_formula": false,
+          "cached_value": "P MIN."
+        },
+        {
+          "coord": "C7",
+          "content": "=18.5*$D$3^2",
+          "is_formula": true,
+          "cached_value": 58.6154
+        },
+        {
+          "coord": "D7",
+          "content": "=23*$D$3^2",
+          "is_formula": true,
+          "cached_value": 72.8732
+        },
+        {
+          "coord": "F7",
+          "content": "AMB (mm)",
+          "is_formula": false,
+          "cached_value": "AMB (mm)"
+        },
+        {
+          "coord": "G7",
+          "content": "=((G6^2)/(4*3.14))",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "cells": [
+        {
+          "coord": "B8",
+          "content": "P IDEAL",
+          "is_formula": false,
+          "cached_value": "P IDEAL"
+        },
+        {
+          "coord": "C8",
+          "content": "21.7",
+          "is_formula": false,
+          "cached_value": 21.7
+        },
+        {
+          "coord": "D8",
+          "content": "=25.5*$D$3^2",
+          "is_formula": true,
+          "cached_value": 80.7942
+        },
+        {
+          "coord": "F8",
+          "content": "AGB (mm)",
+          "is_formula": false,
+          "cached_value": "AGB (mm)"
+        },
+        {
+          "coord": "G8",
+          "content": "=(((F3^2)/(4*3.14))-G7)",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 9,
+      "cells": [
+        {
+          "coord": "B9",
+          "content": "P MAX.",
+          "is_formula": false,
+          "cached_value": "P MAX."
+        },
+        {
+          "coord": "C9",
+          "content": "=24.9*($D$3^2)",
+          "is_formula": true,
+          "cached_value": 78.89316
+        },
+        {
+          "coord": "D9",
+          "content": "=27.9*($D$3^2)",
+          "is_formula": true,
+          "cached_value": 88.39836
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "cells": [
+        {
+          "coord": "B11",
+          "content": "KG A B*S",
+          "is_formula": false,
+          "cached_value": "KG A B*S"
+        },
+        {
+          "coord": "C11",
+          "content": "2",
+          "is_formula": false,
+          "cached_value": 2
+        },
+        {
+          "coord": "F11",
+          "content": "altura cm",
+          "is_formula": false,
+          "cached_value": "altura cm"
+        },
+        {
+          "coord": "G11",
+          "content": "peso kg",
+          "is_formula": false,
+          "cached_value": "peso kg"
+        }
+      ]
+    },
+    {
+      "row": 12,
+      "cells": [
+        {
+          "coord": "B12",
+          "content": "P AJUSTADO",
+          "is_formula": false,
+          "cached_value": "P AJUSTADO"
+        },
+        {
+          "coord": "C12",
+          "content": "=((C3-C8)/C11)+C8",
+          "is_formula": true,
+          "cached_value": 53.349999999999994
+        },
+        {
+          "coord": "D12",
+          "content": "",
+          "is_formula": false,
+          "cached_value": " "
+        },
+        {
+          "coord": "E12",
+          "content": "06 a 18 años",
+          "is_formula": false,
+          "cached_value": "06 a 18 años"
+        },
+        {
+          "coord": "F12",
+          "content": "=(G3*2.22)+40.54",
+          "is_formula": true,
+          "cached_value": 40.54
+        },
+        {
+          "coord": "G12",
+          "content": "=(G3*0.68)+((F3/10)* 2.64)-50.08",
+          "is_formula": true,
+          "cached_value": -50.08
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "cells": [
+        {
+          "coord": "B13",
+          "content": "A. M,",
+          "is_formula": false,
+          "cached_value": "A. M,"
+        },
+        {
+          "coord": "C13",
+          "content": "=((C3-D8)/C11)+D8",
+          "is_formula": true,
+          "cached_value": 82.8971
+        },
+        {
+          "coord": "E13",
+          "content": "19 a 59 años",
+          "is_formula": false,
+          "cached_value": "19 a 59 años"
+        },
+        {
+          "coord": "F13",
+          "content": "=(G3*1.18)+71.85",
+          "is_formula": true,
+          "cached_value": 71.85
+        },
+        {
+          "coord": "G13",
+          "content": "=((G3)*1.19)+((F3/10)*3.21)-86.82",
+          "is_formula": true,
+          "cached_value": -86.82
+        }
+      ]
+    },
+    {
+      "row": 14,
+      "cells": [
+        {
+          "coord": "E14",
+          "content": "60 a 80 años",
+          "is_formula": false,
+          "cached_value": "60 a 80 años "
+        },
+        {
+          "coord": "F14",
+          "content": "=(G3*2.08)+59.01",
+          "is_formula": true,
+          "cached_value": 59.01
+        },
+        {
+          "coord": "G14",
+          "content": "=(G3*1.1)+((F3/10)*3.07)-75.81",
+          "is_formula": true,
+          "cached_value": -75.81
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "cells": [
+        {
+          "coord": "E15",
+          "content": "chumlea",
+          "is_formula": false,
+          "cached_value": "chumlea "
+        },
+        {
+          "coord": "F15",
+          "content": "=(2.02*G3)-(0.04*B3)+64.19",
+          "is_formula": true,
+          "cached_value": 63.309999999999995
+        }
+      ]
+    },
+    {
+      "row": 16,
+      "cells": [
+        {
+          "coord": "B16",
+          "content": "PESO GEB",
+          "is_formula": false,
+          "cached_value": "PESO GEB"
+        },
+        {
+          "coord": "C16",
+          "content": "58.6",
+          "is_formula": false,
+          "cached_value": 58.6
+        }
+      ]
+    },
+    {
+      "row": 17,
+      "cells": [
+        {
+          "coord": "E17",
+          "content": "FA",
+          "is_formula": false,
+          "cached_value": "FA"
+        },
+        {
+          "coord": "F17",
+          "content": "FP",
+          "is_formula": false,
+          "cached_value": "FP"
+        },
+        {
+          "coord": "G17",
+          "content": "TOTAL",
+          "is_formula": false,
+          "cached_value": "TOTAL"
+        }
+      ]
+    },
+    {
+      "row": 18,
+      "cells": [
+        {
+          "coord": "C18",
+          "content": "Harris Benedict",
+          "is_formula": false,
+          "cached_value": "Harris Benedict"
+        },
+        {
+          "coord": "D18",
+          "content": "=66.473+((13.7516*C16)+(5.0023*(D3*100))-(6.755*B3))",
+          "is_formula": true,
+          "cached_value": 1614.11616
+        },
+        {
+          "coord": "E18",
+          "content": "1.2",
+          "is_formula": false,
+          "cached_value": 1.2
+        },
+        {
+          "coord": "F18",
+          "content": "1",
+          "is_formula": false,
+          "cached_value": 1
+        },
+        {
+          "coord": "G18",
+          "content": "=D18*$E$18*$F$18",
+          "is_formula": true,
+          "cached_value": 1936.939392
+        }
+      ]
+    },
+    {
+      "row": 19,
+      "cells": [
+        {
+          "coord": "C19",
+          "content": "FEO/OMS 18 - 30",
+          "is_formula": false,
+          "cached_value": "FEO/OMS 18 - 30"
+        },
+        {
+          "coord": "D19",
+          "content": "=(15.057*$C$16)+692.2",
+          "is_formula": true,
+          "cached_value": 1574.5402000000001
+        },
+        {
+          "coord": "G19",
+          "content": "=D19*$E$18*$F$18",
+          "is_formula": true,
+          "cached_value": 1889.4482400000002
+        }
+      ]
+    },
+    {
+      "row": 20,
+      "cells": [
+        {
+          "coord": "C20",
+          "content": "FAO/OMS 30 - 60",
+          "is_formula": false,
+          "cached_value": " FAO/OMS 30 - 60"
+        },
+        {
+          "coord": "D20",
+          "content": "=(11.472*$C$16)+873.1",
+          "is_formula": true,
+          "cached_value": 1545.3591999999999
+        },
+        {
+          "coord": "G20",
+          "content": "=D20*$E$18*$F$18",
+          "is_formula": true,
+          "cached_value": 1854.4310399999997
+        }
+      ]
+    },
+    {
+      "row": 21,
+      "cells": [
+        {
+          "coord": "C21",
+          "content": "FAO/OMS 61 y +",
+          "is_formula": false,
+          "cached_value": " FAO/OMS 61 y +"
+        },
+        {
+          "coord": "D21",
+          "content": "=(11.711*$C$16)+587.7",
+          "is_formula": true,
+          "cached_value": 1273.9646000000002
+        },
+        {
+          "coord": "G21",
+          "content": "=D21*$E$18*$F$18",
+          "is_formula": true,
+          "cached_value": 1528.7575200000003
+        }
+      ]
+    },
+    {
+      "row": 23,
+      "cells": [
+        {
+          "coord": "B23",
+          "content": "KCAL R.",
+          "is_formula": false,
+          "cached_value": "KCAL R."
+        },
+        {
+          "coord": "C23",
+          "content": "1936.939392",
+          "is_formula": false,
+          "cached_value": 1936.939392
+        },
+        {
+          "coord": "D23",
+          "content": "1937",
+          "is_formula": false,
+          "cached_value": 1937
+        }
+      ]
+    },
+    {
+      "row": 24,
+      "cells": [
+        {
+          "coord": "C24",
+          "content": "%",
+          "is_formula": false,
+          "cached_value": "%"
+        },
+        {
+          "coord": "D24",
+          "content": "kcal",
+          "is_formula": false,
+          "cached_value": "kcal "
+        },
+        {
+          "coord": "E24",
+          "content": "G",
+          "is_formula": false,
+          "cached_value": "G"
+        },
+        {
+          "coord": "F24",
+          "content": "g/kg",
+          "is_formula": false,
+          "cached_value": "g/kg "
+        },
+        {
+          "coord": "G24",
+          "content": "g/kg peso real",
+          "is_formula": false,
+          "cached_value": "g/kg peso real"
+        }
+      ]
+    },
+    {
+      "row": 25,
+      "cells": [
+        {
+          "coord": "B25",
+          "content": "proteína",
+          "is_formula": false,
+          "cached_value": "proteína"
+        },
+        {
+          "coord": "C25",
+          "content": "12",
+          "is_formula": false,
+          "cached_value": 12
+        },
+        {
+          "coord": "D25",
+          "content": "=(D23*C25)/100",
+          "is_formula": true,
+          "cached_value": 232.44
+        },
+        {
+          "coord": "E25",
+          "content": "=D25/4",
+          "is_formula": true,
+          "cached_value": 58.11
+        },
+        {
+          "coord": "F25",
+          "content": "=E25/$C$16",
+          "is_formula": true,
+          "cached_value": 0.9916382252559727
+        },
+        {
+          "coord": "G25",
+          "content": "=E25/$C$3",
+          "is_formula": true,
+          "cached_value": 0.6836470588235294
+        }
+      ]
+    },
+    {
+      "row": 26,
+      "cells": [
+        {
+          "coord": "B26",
+          "content": "lípidos",
+          "is_formula": false,
+          "cached_value": "lípidos"
+        },
+        {
+          "coord": "C26",
+          "content": "28",
+          "is_formula": false,
+          "cached_value": 28
+        },
+        {
+          "coord": "D26",
+          "content": "=(D23*C26)/100",
+          "is_formula": true,
+          "cached_value": 542.36
+        },
+        {
+          "coord": "E26",
+          "content": "=D26/9",
+          "is_formula": true,
+          "cached_value": 60.26222222222222
+        },
+        {
+          "coord": "F26",
+          "content": "=E26/$C$16",
+          "is_formula": true,
+          "cached_value": 1.02836556693212
+        },
+        {
+          "coord": "G26",
+          "content": "=E26/$C$3",
+          "is_formula": true,
+          "cached_value": 0.7089673202614379
+        }
+      ]
+    },
+    {
+      "row": 27,
+      "cells": [
+        {
+          "coord": "B27",
+          "content": "cho",
+          "is_formula": false,
+          "cached_value": "cho "
+        },
+        {
+          "coord": "C27",
+          "content": "60",
+          "is_formula": false,
+          "cached_value": 60
+        },
+        {
+          "coord": "D27",
+          "content": "=(D23*C27)/100",
+          "is_formula": true,
+          "cached_value": 1162.2
+        },
+        {
+          "coord": "E27",
+          "content": "=D27/4",
+          "is_formula": true,
+          "cached_value": 290.55
+        },
+        {
+          "coord": "F27",
+          "content": "=E27/$C$16",
+          "is_formula": true,
+          "cached_value": 4.958191126279863
+        },
+        {
+          "coord": "G27",
+          "content": "=E27/$C$3",
+          "is_formula": true,
+          "cached_value": 3.4182352941176473
+        }
+      ]
+    },
+    {
+      "row": 28,
+      "cells": [
+        {
+          "coord": "B28",
+          "content": "TOTAL",
+          "is_formula": false,
+          "cached_value": "TOTAL"
+        },
+        {
+          "coord": "C28",
+          "content": "=SUM(C25:C27)",
+          "is_formula": true,
+          "cached_value": 100
+        },
+        {
+          "coord": "D28",
+          "content": "=SUM(D25:D27)",
+          "is_formula": true,
+          "cached_value": 1937
+        }
+      ]
+    },
+    {
+      "row": 30,
+      "cells": [
+        {
+          "coord": "B30",
+          "content": "Grupo",
+          "is_formula": false,
+          "cached_value": "Grupo "
+        },
+        {
+          "coord": "C30",
+          "content": "Porción",
+          "is_formula": false,
+          "cached_value": "Porción"
+        },
+        {
+          "coord": "D30",
+          "content": "Caloría",
+          "is_formula": false,
+          "cached_value": "Caloría "
+        },
+        {
+          "coord": "E30",
+          "content": "Carbohidratos",
+          "is_formula": false,
+          "cached_value": "Carbohidratos"
+        },
+        {
+          "coord": "F30",
+          "content": "Lípidos",
+          "is_formula": false,
+          "cached_value": "Lípidos "
+        },
+        {
+          "coord": "G30",
+          "content": "Proteínas",
+          "is_formula": false,
+          "cached_value": "Proteínas "
+        }
+      ]
+    },
+    {
+      "row": 31,
+      "cells": [
+        {
+          "coord": "B31",
+          "content": "cereales",
+          "is_formula": false,
+          "cached_value": "cereales "
+        },
+        {
+          "coord": "C31",
+          "content": "5",
+          "is_formula": false,
+          "cached_value": 5
+        },
+        {
+          "coord": "D31",
+          "content": "=('Datos Adulto'!O27)*C31",
+          "is_formula": true,
+          "cached_value": 700
+        },
+        {
+          "coord": "E31",
+          "content": "=('Datos Adulto'!P27)*C31",
+          "is_formula": true,
+          "cached_value": 150
+        },
+        {
+          "coord": "F31",
+          "content": "=('Datos Adulto'!Q27)*C31",
+          "is_formula": true,
+          "cached_value": 5
+        },
+        {
+          "coord": "G31",
+          "content": "=('Datos Adulto'!R27)*C31",
+          "is_formula": true,
+          "cached_value": 15
+        }
+      ]
+    },
+    {
+      "row": 32,
+      "cells": [
+        {
+          "coord": "B32",
+          "content": "verduras en general",
+          "is_formula": false,
+          "cached_value": "verduras en general "
+        },
+        {
+          "coord": "C32",
+          "content": "3",
+          "is_formula": false,
+          "cached_value": 3
+        },
+        {
+          "coord": "D32",
+          "content": "=('Datos Adulto'!O28)*C32",
+          "is_formula": true,
+          "cached_value": 90
+        },
+        {
+          "coord": "E32",
+          "content": "=('Datos Adulto'!P28)*C32",
+          "is_formula": true,
+          "cached_value": 15
+        },
+        {
+          "coord": "F32",
+          "content": "=('Datos Adulto'!Q28)*C32",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "G32",
+          "content": "=('Datos Adulto'!R28)*C32",
+          "is_formula": true,
+          "cached_value": 6
+        }
+      ]
+    },
+    {
+      "row": 33,
+      "cells": [
+        {
+          "coord": "B33",
+          "content": "verduras libre consumo",
+          "is_formula": false,
+          "cached_value": "verduras libre consumo"
+        },
+        {
+          "coord": "C33",
+          "content": "4",
+          "is_formula": false,
+          "cached_value": 4
+        },
+        {
+          "coord": "D33",
+          "content": "=('Datos Adulto'!O29)*C33",
+          "is_formula": true,
+          "cached_value": 40
+        },
+        {
+          "coord": "E33",
+          "content": "=('Datos Adulto'!P29)*C33",
+          "is_formula": true,
+          "cached_value": 10
+        },
+        {
+          "coord": "F33",
+          "content": "=('Datos Adulto'!Q29)*C33",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "G33",
+          "content": "=('Datos Adulto'!R29)*C33",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 34,
+      "cells": [
+        {
+          "coord": "B34",
+          "content": "frutas",
+          "is_formula": false,
+          "cached_value": "frutas"
+        },
+        {
+          "coord": "C34",
+          "content": "4",
+          "is_formula": false,
+          "cached_value": 4
+        },
+        {
+          "coord": "D34",
+          "content": "=('Datos Adulto'!O30)*C34",
+          "is_formula": true,
+          "cached_value": 260
+        },
+        {
+          "coord": "E34",
+          "content": "=('Datos Adulto'!P30)*C34",
+          "is_formula": true,
+          "cached_value": 60
+        },
+        {
+          "coord": "F34",
+          "content": "=('Datos Adulto'!Q30)*C34",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "G34",
+          "content": "=('Datos Adulto'!R30)*C34",
+          "is_formula": true,
+          "cached_value": 4
+        }
+      ]
+    },
+    {
+      "row": 35,
+      "cells": [
+        {
+          "coord": "B35",
+          "content": "carnes altas en grasa",
+          "is_formula": false,
+          "cached_value": "carnes altas en grasa"
+        },
+        {
+          "coord": "C35",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        },
+        {
+          "coord": "D35",
+          "content": "=('Datos Adulto'!O31)*C35",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "E35",
+          "content": "=('Datos Adulto'!P31)*C35",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "F35",
+          "content": "=('Datos Adulto'!Q31)*C35",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "G35",
+          "content": "=('Datos Adulto'!R31)*C35",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 36,
+      "cells": [
+        {
+          "coord": "B36",
+          "content": "carnes bajas en grasa",
+          "is_formula": false,
+          "cached_value": "carnes bajas en grasa"
+        },
+        {
+          "coord": "C36",
+          "content": "1.5",
+          "is_formula": false,
+          "cached_value": 1.5
+        },
+        {
+          "coord": "D36",
+          "content": "=('Datos Adulto'!O32)*C36",
+          "is_formula": true,
+          "cached_value": 97.5
+        },
+        {
+          "coord": "E36",
+          "content": "=('Datos Adulto'!P32)*C36",
+          "is_formula": true,
+          "cached_value": 1.5
+        },
+        {
+          "coord": "F36",
+          "content": "=('Datos Adulto'!Q32)*C36",
+          "is_formula": true,
+          "cached_value": 3
+        },
+        {
+          "coord": "G36",
+          "content": "=('Datos Adulto'!R32)*C36",
+          "is_formula": true,
+          "cached_value": 16.5
+        }
+      ]
+    },
+    {
+      "row": 37,
+      "cells": [
+        {
+          "coord": "B37",
+          "content": "leguminosas secas",
+          "is_formula": false,
+          "cached_value": "leguminosas secas"
+        },
+        {
+          "coord": "C37",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        },
+        {
+          "coord": "D37",
+          "content": "=('Datos Adulto'!O33)*C37",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "E37",
+          "content": "=('Datos Adulto'!P33)*C37",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "F37",
+          "content": "=('Datos Adulto'!Q33)*C37",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "G37",
+          "content": "=('Datos Adulto'!R33)*C37",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 38,
+      "cells": [
+        {
+          "coord": "B38",
+          "content": "lacteos altos en grasa",
+          "is_formula": false,
+          "cached_value": "lacteos altos en grasa "
+        },
+        {
+          "coord": "C38",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        },
+        {
+          "coord": "D38",
+          "content": "=('Datos Adulto'!O34)*C38",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "E38",
+          "content": "=('Datos Adulto'!P34)*C38",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "F38",
+          "content": "=('Datos Adulto'!Q34)*C38",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "G38",
+          "content": "=('Datos Adulto'!R34)*C38",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 39,
+      "cells": [
+        {
+          "coord": "B39",
+          "content": "lacteos medios en grasa",
+          "is_formula": false,
+          "cached_value": "lacteos medios en grasa"
+        },
+        {
+          "coord": "C39",
+          "content": "1.5",
+          "is_formula": false,
+          "cached_value": 1.5
+        },
+        {
+          "coord": "D39",
+          "content": "=('Datos Adulto'!O35)*C39",
+          "is_formula": true,
+          "cached_value": 127.5
+        },
+        {
+          "coord": "E39",
+          "content": "=('Datos Adulto'!P35)*C39",
+          "is_formula": true,
+          "cached_value": 13.5
+        },
+        {
+          "coord": "F39",
+          "content": "=('Datos Adulto'!Q35)*C39",
+          "is_formula": true,
+          "cached_value": 4.5
+        },
+        {
+          "coord": "G39",
+          "content": "=('Datos Adulto'!R35)*C39",
+          "is_formula": true,
+          "cached_value": 7.5
+        }
+      ]
+    },
+    {
+      "row": 40,
+      "cells": [
+        {
+          "coord": "B40",
+          "content": "lacteos bajos en grasa",
+          "is_formula": false,
+          "cached_value": "lacteos bajos en grasa "
+        },
+        {
+          "coord": "C40",
+          "content": "1",
+          "is_formula": false,
+          "cached_value": 1
+        },
+        {
+          "coord": "D40",
+          "content": "=('Datos Adulto'!O36)*C40",
+          "is_formula": true,
+          "cached_value": 70
+        },
+        {
+          "coord": "E40",
+          "content": "=('Datos Adulto'!P36)*C40",
+          "is_formula": true,
+          "cached_value": 10
+        },
+        {
+          "coord": "F40",
+          "content": "=('Datos Adulto'!Q36)*C40",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "G40",
+          "content": "=('Datos Adulto'!R36)*C40",
+          "is_formula": true,
+          "cached_value": 7
+        }
+      ]
+    },
+    {
+      "row": 41,
+      "cells": [
+        {
+          "coord": "B41",
+          "content": "aceites y grasas",
+          "is_formula": false,
+          "cached_value": "aceites y grasas "
+        },
+        {
+          "coord": "C41",
+          "content": "1.5",
+          "is_formula": false,
+          "cached_value": 1.5
+        },
+        {
+          "coord": "D41",
+          "content": "=('Datos Adulto'!O37)*C41",
+          "is_formula": true,
+          "cached_value": 270
+        },
+        {
+          "coord": "E41",
+          "content": "=('Datos Adulto'!P37)*C41",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "F41",
+          "content": "=('Datos Adulto'!Q37)*C41",
+          "is_formula": true,
+          "cached_value": 30
+        },
+        {
+          "coord": "G41",
+          "content": "=('Datos Adulto'!R37)*C41",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 42,
+      "cells": [
+        {
+          "coord": "B42",
+          "content": "alimentos rics en lipidos",
+          "is_formula": false,
+          "cached_value": "alimentos rics en lipidos "
+        },
+        {
+          "coord": "C42",
+          "content": "1.5",
+          "is_formula": false,
+          "cached_value": 1.5
+        },
+        {
+          "coord": "D42",
+          "content": "=('Datos Adulto'!O38)*C42",
+          "is_formula": true,
+          "cached_value": 262.5
+        },
+        {
+          "coord": "E42",
+          "content": "=('Datos Adulto'!P38)*C42",
+          "is_formula": true,
+          "cached_value": 7.5
+        },
+        {
+          "coord": "F42",
+          "content": "=('Datos Adulto'!Q38)*C42",
+          "is_formula": true,
+          "cached_value": 22.5
+        },
+        {
+          "coord": "G42",
+          "content": "=('Datos Adulto'!R38)*C42",
+          "is_formula": true,
+          "cached_value": 7.5
+        },
+        {
+          "coord": "K42",
+          "content": "",
+          "is_formula": false,
+          "cached_value": " "
+        }
+      ]
+    },
+    {
+      "row": 43,
+      "cells": [
+        {
+          "coord": "B43",
+          "content": "azucar y otros",
+          "is_formula": false,
+          "cached_value": "azucar y otros"
+        },
+        {
+          "coord": "C43",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        },
+        {
+          "coord": "D43",
+          "content": "=('Datos Adulto'!O39)*C43",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "E43",
+          "content": "=('Datos Adulto'!P39)*C43",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "F43",
+          "content": "=('Datos Adulto'!Q39)*C43",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "G43",
+          "content": "=('Datos Adulto'!R39)*C43",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 44,
+      "cells": [
+        {
+          "coord": "B44",
+          "content": "Total",
+          "is_formula": false,
+          "cached_value": "Total"
+        },
+        {
+          "coord": "D44",
+          "content": "=SUM(D31:D43)",
+          "is_formula": true,
+          "cached_value": 1917.5
+        },
+        {
+          "coord": "E44",
+          "content": "=SUM(E31:E43)",
+          "is_formula": true,
+          "cached_value": 267.5
+        },
+        {
+          "coord": "F44",
+          "content": "=SUM(F31:F43)",
+          "is_formula": true,
+          "cached_value": 65
+        },
+        {
+          "coord": "G44",
+          "content": "=SUM(G31:G43)",
+          "is_formula": true,
+          "cached_value": 63.5
+        }
+      ]
+    },
+    {
+      "row": 45,
+      "cells": [
+        {
+          "coord": "B45",
+          "content": "Requerimiento",
+          "is_formula": false,
+          "cached_value": "Requerimiento"
+        },
+        {
+          "coord": "D45",
+          "content": "1937",
+          "is_formula": false,
+          "cached_value": 1937
+        },
+        {
+          "coord": "E45",
+          "content": "290.6",
+          "is_formula": false,
+          "cached_value": 290.6
+        },
+        {
+          "coord": "F45",
+          "content": "60.3",
+          "is_formula": false,
+          "cached_value": 60.3
+        },
+        {
+          "coord": "G45",
+          "content": "58.1",
+          "is_formula": false,
+          "cached_value": 58.1
+        }
+      ]
+    },
+    {
+      "row": 46,
+      "cells": [
+        {
+          "coord": "B46",
+          "content": "% Adecuacion",
+          "is_formula": false,
+          "cached_value": "% Adecuacion "
+        },
+        {
+          "coord": "D46",
+          "content": "=(D44/D45)",
+          "is_formula": true,
+          "cached_value": 0.9899328859060402
+        },
+        {
+          "coord": "E46",
+          "content": "=(E44/E45)",
+          "is_formula": true,
+          "cached_value": 0.9205092911218169
+        },
+        {
+          "coord": "F46",
+          "content": "=(F44/F45)",
+          "is_formula": true,
+          "cached_value": 1.077943615257048
+        },
+        {
+          "coord": "G46",
+          "content": "=(G44/G45)",
+          "is_formula": true,
+          "cached_value": 1.0929432013769362
+        }
+      ]
+    }
+  ],
+  "MUJER Adulto & A. Mayor": [
+    {
+      "row": 2,
+      "cells": [
+        {
+          "coord": "B2",
+          "content": "EDAD (AÑOS)",
+          "is_formula": false,
+          "cached_value": "EDAD (AÑOS)"
+        },
+        {
+          "coord": "C2",
+          "content": "PESO REAL (KG)",
+          "is_formula": false,
+          "cached_value": "PESO REAL (KG)"
+        },
+        {
+          "coord": "D2",
+          "content": "TALLA (MT)",
+          "is_formula": false,
+          "cached_value": "TALLA (MT)"
+        },
+        {
+          "coord": "E2",
+          "content": "PT (MM)",
+          "is_formula": false,
+          "cached_value": "PT (MM)"
+        },
+        {
+          "coord": "F2",
+          "content": "CB (MM)",
+          "is_formula": false,
+          "cached_value": "CB (MM)"
+        },
+        {
+          "coord": "G2",
+          "content": "A. RODILLA",
+          "is_formula": false,
+          "cached_value": "A. RODILLA"
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "cells": [
+        {
+          "coord": "B3",
+          "content": "22",
+          "is_formula": false,
+          "cached_value": 22
+        },
+        {
+          "coord": "C3",
+          "content": "65",
+          "is_formula": false,
+          "cached_value": 65
+        },
+        {
+          "coord": "D3",
+          "content": "1.58",
+          "is_formula": false,
+          "cached_value": 1.58
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "cells": [
+        {
+          "coord": "C5",
+          "content": "Adulto",
+          "is_formula": false,
+          "cached_value": "Adulto"
+        },
+        {
+          "coord": "D5",
+          "content": "Adulto mayor",
+          "is_formula": false,
+          "cached_value": "Adulto mayor"
+        }
+      ]
+    },
+    {
+      "row": 6,
+      "cells": [
+        {
+          "coord": "B6",
+          "content": "IMC",
+          "is_formula": false,
+          "cached_value": "IMC"
+        },
+        {
+          "coord": "C6",
+          "content": "=$C$3/($D$3^2)",
+          "is_formula": true,
+          "cached_value": 26.037493991347535
+        },
+        {
+          "coord": "D6",
+          "content": "=$C$3/($D$3^2)",
+          "is_formula": true,
+          "cached_value": 26.037493991347535
+        },
+        {
+          "coord": "F6",
+          "content": "PMB (mm)",
+          "is_formula": false,
+          "cached_value": "PMB (mm)"
+        },
+        {
+          "coord": "G6",
+          "content": "=(F3-(3.14*E3))",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 7,
+      "cells": [
+        {
+          "coord": "B7",
+          "content": "P MIN.",
+          "is_formula": false,
+          "cached_value": "P MIN."
+        },
+        {
+          "coord": "C7",
+          "content": "=18.5*$D$3^2",
+          "is_formula": true,
+          "cached_value": 46.183400000000006
+        },
+        {
+          "coord": "D7",
+          "content": "=23.1*$D$3^2",
+          "is_formula": true,
+          "cached_value": 57.666840000000015
+        },
+        {
+          "coord": "F7",
+          "content": "AMB (mm)",
+          "is_formula": false,
+          "cached_value": "AMB (mm)"
+        },
+        {
+          "coord": "G7",
+          "content": "=((G6^2)/(4*3.14))",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 8,
+      "cells": [
+        {
+          "coord": "B8",
+          "content": "P IDEAL",
+          "is_formula": false,
+          "cached_value": "P IDEAL"
+        },
+        {
+          "coord": "C8",
+          "content": "=22*$D$3^2",
+          "is_formula": true,
+          "cached_value": 54.92080000000001
+        },
+        {
+          "coord": "D8",
+          "content": "=25.5*$D$3^2",
+          "is_formula": true,
+          "cached_value": 63.65820000000001
+        },
+        {
+          "coord": "F8",
+          "content": "AGB (mm)",
+          "is_formula": false,
+          "cached_value": "AGB (mm)"
+        },
+        {
+          "coord": "G8",
+          "content": "=(((F3^2)/(4*3.14))-G7)",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 9,
+      "cells": [
+        {
+          "coord": "B9",
+          "content": "P MAX.",
+          "is_formula": false,
+          "cached_value": "P MAX."
+        },
+        {
+          "coord": "C9",
+          "content": "=24.99*($D$3^2)",
+          "is_formula": true,
+          "cached_value": 62.38503600000001
+        },
+        {
+          "coord": "D9",
+          "content": "=27.9*($D$3^2)",
+          "is_formula": true,
+          "cached_value": 69.64956000000001
+        }
+      ]
+    },
+    {
+      "row": 10,
+      "cells": [
+        {
+          "coord": "F10",
+          "content": "PESO",
+          "is_formula": false,
+          "cached_value": "PESO"
+        },
+        {
+          "coord": "G10",
+          "content": "TALLA",
+          "is_formula": false,
+          "cached_value": "TALLA"
+        }
+      ]
+    },
+    {
+      "row": 11,
+      "cells": [
+        {
+          "coord": "B11",
+          "content": "KG A B*S",
+          "is_formula": false,
+          "cached_value": "KG A B*S"
+        },
+        {
+          "coord": "C11",
+          "content": "3",
+          "is_formula": false,
+          "cached_value": 3
+        },
+        {
+          "coord": "E11",
+          "content": "06 a 18 años",
+          "is_formula": false,
+          "cached_value": "06 a 18 años"
+        },
+        {
+          "coord": "F11",
+          "content": "=(G3*0.77)+((F3/10)* 2.47)-50.16",
+          "is_formula": true,
+          "cached_value": -50.16
+        },
+        {
+          "coord": "G11",
+          "content": "=(G3*2.15)+43.21",
+          "is_formula": true,
+          "cached_value": 43.21
+        }
+      ]
+    },
+    {
+      "row": 12,
+      "cells": [
+        {
+          "coord": "B12",
+          "content": "P AJUSTADO",
+          "is_formula": false,
+          "cached_value": "P AJUSTADO"
+        },
+        {
+          "coord": "C12",
+          "content": "=(($C$3-C8)/$C$11)+C8",
+          "is_formula": true,
+          "cached_value": 58.28053333333334
+        },
+        {
+          "coord": "E12",
+          "content": "19 a 59 años",
+          "is_formula": false,
+          "cached_value": "19 a 59 años"
+        },
+        {
+          "coord": "F12",
+          "content": "=(G3*1.01)+((F3/10)*2.81)-66.04",
+          "is_formula": true,
+          "cached_value": -66.04
+        },
+        {
+          "coord": "G12",
+          "content": "=(G3*1.86)-(B3*0.05)+70.25",
+          "is_formula": true,
+          "cached_value": 69.15
+        }
+      ]
+    },
+    {
+      "row": 13,
+      "cells": [
+        {
+          "coord": "B13",
+          "content": "A. M.",
+          "is_formula": false,
+          "cached_value": "A. M."
+        },
+        {
+          "coord": "C13",
+          "content": "=(($C$3-D8)/$C$11)+D8",
+          "is_formula": true,
+          "cached_value": 64.10546666666667
+        },
+        {
+          "coord": "E13",
+          "content": "60 a 80 años",
+          "is_formula": false,
+          "cached_value": "60 a 80 años "
+        },
+        {
+          "coord": "F13",
+          "content": "=(G3*1.09)+((F3/10)*2.68)-65.51",
+          "is_formula": true,
+          "cached_value": -65.51
+        },
+        {
+          "coord": "G13",
+          "content": "=(G3*1.91)-(B3*0.17)+75",
+          "is_formula": true,
+          "cached_value": 71.26
+        }
+      ]
+    },
+    {
+      "row": 14,
+      "cells": [
+        {
+          "coord": "E14",
+          "content": "Según chumlea",
+          "is_formula": false,
+          "cached_value": "Según chumlea "
+        },
+        {
+          "coord": "G14",
+          "content": "=(1.83*G3)-(0.24*B3)+84.88",
+          "is_formula": true,
+          "cached_value": 79.6
+        }
+      ]
+    },
+    {
+      "row": 15,
+      "cells": [
+        {
+          "coord": "B15",
+          "content": "PESO GEB",
+          "is_formula": false,
+          "cached_value": "PESO GEB"
+        },
+        {
+          "coord": "C15",
+          "content": "72",
+          "is_formula": false,
+          "cached_value": 72
+        }
+      ]
+    },
+    {
+      "row": 16,
+      "cells": [
+        {
+          "coord": "E16",
+          "content": "FA",
+          "is_formula": false,
+          "cached_value": "FA"
+        },
+        {
+          "coord": "F16",
+          "content": "FP",
+          "is_formula": false,
+          "cached_value": "FP"
+        },
+        {
+          "coord": "G16",
+          "content": "TOTAL",
+          "is_formula": false,
+          "cached_value": "TOTAL"
+        }
+      ]
+    },
+    {
+      "row": 17,
+      "cells": [
+        {
+          "coord": "C17",
+          "content": "Harris Benedict",
+          "is_formula": false,
+          "cached_value": "Harris Benedict"
+        },
+        {
+          "coord": "D17",
+          "content": "=655.1+(9.6*$C$15)+(1.8*($D$3*100))-(4.7*$B$3)",
+          "is_formula": true,
+          "cached_value": 1527.3
+        },
+        {
+          "coord": "E17",
+          "content": "1.4",
+          "is_formula": false,
+          "cached_value": 1.4
+        },
+        {
+          "coord": "F17",
+          "content": "1",
+          "is_formula": false,
+          "cached_value": 1
+        },
+        {
+          "coord": "G17",
+          "content": "=D17*$E$17*$F$17",
+          "is_formula": true,
+          "cached_value": 2138.22
+        }
+      ]
+    },
+    {
+      "row": 18,
+      "cells": [
+        {
+          "coord": "C18",
+          "content": "FEO/OMS 18 - 30",
+          "is_formula": false,
+          "cached_value": "FEO/OMS 18 - 30"
+        },
+        {
+          "coord": "D18",
+          "content": "=(14.818*$C$15)+486.6",
+          "is_formula": true,
+          "cached_value": 1553.496
+        },
+        {
+          "coord": "G18",
+          "content": "=D18*$E$17*$F$17",
+          "is_formula": true,
+          "cached_value": 2174.8944
+        }
+      ]
+    },
+    {
+      "row": 19,
+      "cells": [
+        {
+          "coord": "C19",
+          "content": "FAO/OMS 30 - 60",
+          "is_formula": false,
+          "cached_value": " FAO/OMS 30 - 60"
+        },
+        {
+          "coord": "D19",
+          "content": "=(8.126*$C$15)+845.6",
+          "is_formula": true,
+          "cached_value": 1430.672
+        },
+        {
+          "coord": "G19",
+          "content": "=D19*$E$17*$F$17",
+          "is_formula": true,
+          "cached_value": 2002.9407999999999
+        }
+      ]
+    },
+    {
+      "row": 20,
+      "cells": [
+        {
+          "coord": "C20",
+          "content": "FAO/OMS 61 y +",
+          "is_formula": false,
+          "cached_value": " FAO/OMS 61 y +"
+        },
+        {
+          "coord": "D20",
+          "content": "=(9.082*$C$15)+658.5",
+          "is_formula": true,
+          "cached_value": 1312.404
+        },
+        {
+          "coord": "G20",
+          "content": "=D20*$E$17*$F$17",
+          "is_formula": true,
+          "cached_value": 1837.3655999999999
+        }
+      ]
+    },
+    {
+      "row": 22,
+      "cells": [
+        {
+          "coord": "B22",
+          "content": "KCAL R.",
+          "is_formula": false,
+          "cached_value": "KCAL R."
+        },
+        {
+          "coord": "C22",
+          "content": "1837.3655999999999",
+          "is_formula": false,
+          "cached_value": 1837.3655999999999
+        }
+      ]
+    },
+    {
+      "row": 23,
+      "cells": [
+        {
+          "coord": "C23",
+          "content": "%",
+          "is_formula": false,
+          "cached_value": "%"
+        },
+        {
+          "coord": "D23",
+          "content": "kcal",
+          "is_formula": false,
+          "cached_value": "kcal "
+        },
+        {
+          "coord": "E23",
+          "content": "G",
+          "is_formula": false,
+          "cached_value": "G"
+        },
+        {
+          "coord": "F23",
+          "content": "g/kg",
+          "is_formula": false,
+          "cached_value": "g/kg "
+        },
+        {
+          "coord": "G23",
+          "content": "g/kg peso real",
+          "is_formula": false,
+          "cached_value": "g/kg peso real"
+        }
+      ]
+    },
+    {
+      "row": 24,
+      "cells": [
+        {
+          "coord": "B24",
+          "content": "proteína",
+          "is_formula": false,
+          "cached_value": "proteína"
+        },
+        {
+          "coord": "C24",
+          "content": "15",
+          "is_formula": false,
+          "cached_value": 15
+        },
+        {
+          "coord": "D24",
+          "content": "=($C$22*C24)/100",
+          "is_formula": true,
+          "cached_value": 275.60483999999997
+        },
+        {
+          "coord": "E24",
+          "content": "=D24/4",
+          "is_formula": true,
+          "cached_value": 68.90120999999999
+        },
+        {
+          "coord": "F24",
+          "content": "=E24/$C$15",
+          "is_formula": true,
+          "cached_value": 0.9569612499999999
+        },
+        {
+          "coord": "G24",
+          "content": "=E24/$C$3",
+          "is_formula": true,
+          "cached_value": 1.0600186153846152
+        }
+      ]
+    },
+    {
+      "row": 25,
+      "cells": [
+        {
+          "coord": "B25",
+          "content": "lípidos",
+          "is_formula": false,
+          "cached_value": "lípidos"
+        },
+        {
+          "coord": "C25",
+          "content": "30",
+          "is_formula": false,
+          "cached_value": 30
+        },
+        {
+          "coord": "D25",
+          "content": "=($C$22*C25)/100",
+          "is_formula": true,
+          "cached_value": 551.2096799999999
+        },
+        {
+          "coord": "E25",
+          "content": "=D25/9",
+          "is_formula": true,
+          "cached_value": 61.24551999999999
+        },
+        {
+          "coord": "F25",
+          "content": "=E25/$C$15",
+          "is_formula": true,
+          "cached_value": 0.8506322222222221
+        },
+        {
+          "coord": "G25",
+          "content": "=E25/$C$3",
+          "is_formula": true,
+          "cached_value": 0.9422387692307691
+        }
+      ]
+    },
+    {
+      "row": 26,
+      "cells": [
+        {
+          "coord": "B26",
+          "content": "cho",
+          "is_formula": false,
+          "cached_value": "cho "
+        },
+        {
+          "coord": "C26",
+          "content": "55",
+          "is_formula": false,
+          "cached_value": 55
+        },
+        {
+          "coord": "D26",
+          "content": "=($C$22*C26)/100",
+          "is_formula": true,
+          "cached_value": 1010.55108
+        },
+        {
+          "coord": "E26",
+          "content": "=D26/4",
+          "is_formula": true,
+          "cached_value": 252.63777
+        },
+        {
+          "coord": "F26",
+          "content": "=E26/$C$15",
+          "is_formula": true,
+          "cached_value": 3.5088579166666665
+        },
+        {
+          "coord": "G26",
+          "content": "=E26/$C$3",
+          "is_formula": true,
+          "cached_value": 3.886734923076923
+        }
+      ]
+    },
+    {
+      "row": 27,
+      "cells": [
+        {
+          "coord": "B27",
+          "content": "TOTAL",
+          "is_formula": false,
+          "cached_value": "TOTAL"
+        },
+        {
+          "coord": "C27",
+          "content": "=SUM(C24:C26)",
+          "is_formula": true,
+          "cached_value": 100
+        },
+        {
+          "coord": "D27",
+          "content": "=SUM(D24:D26)",
+          "is_formula": true,
+          "cached_value": 1837.3655999999999
+        }
+      ]
+    },
+    {
+      "row": 29,
+      "cells": [
+        {
+          "coord": "B29",
+          "content": "Grupo",
+          "is_formula": false,
+          "cached_value": "Grupo "
+        },
+        {
+          "coord": "C29",
+          "content": "Porción",
+          "is_formula": false,
+          "cached_value": "Porción"
+        },
+        {
+          "coord": "D29",
+          "content": "Caloría",
+          "is_formula": false,
+          "cached_value": "Caloría "
+        },
+        {
+          "coord": "E29",
+          "content": "Carbohidratos",
+          "is_formula": false,
+          "cached_value": "Carbohidratos"
+        },
+        {
+          "coord": "F29",
+          "content": "Lípidos",
+          "is_formula": false,
+          "cached_value": "Lípidos "
+        },
+        {
+          "coord": "G29",
+          "content": "Proteínas",
+          "is_formula": false,
+          "cached_value": "Proteínas "
+        }
+      ]
+    },
+    {
+      "row": 30,
+      "cells": [
+        {
+          "coord": "B30",
+          "content": "cereales",
+          "is_formula": false,
+          "cached_value": "cereales "
+        },
+        {
+          "coord": "C30",
+          "content": "5",
+          "is_formula": false,
+          "cached_value": 5
+        },
+        {
+          "coord": "D30",
+          "content": "=('Datos Adulto'!O27)*C30",
+          "is_formula": true,
+          "cached_value": 700
+        },
+        {
+          "coord": "E30",
+          "content": "=('Datos Adulto'!P27)*C30",
+          "is_formula": true,
+          "cached_value": 150
+        },
+        {
+          "coord": "F30",
+          "content": "=('Datos Adulto'!Q27)*C30",
+          "is_formula": true,
+          "cached_value": 5
+        },
+        {
+          "coord": "G30",
+          "content": "=('Datos Adulto'!R27)*C30",
+          "is_formula": true,
+          "cached_value": 15
+        }
+      ]
+    },
+    {
+      "row": 31,
+      "cells": [
+        {
+          "coord": "B31",
+          "content": "verduras en general",
+          "is_formula": false,
+          "cached_value": "verduras en general "
+        },
+        {
+          "coord": "C31",
+          "content": "2",
+          "is_formula": false,
+          "cached_value": 2
+        },
+        {
+          "coord": "D31",
+          "content": "=('Datos Adulto'!O28)*C31",
+          "is_formula": true,
+          "cached_value": 60
+        },
+        {
+          "coord": "E31",
+          "content": "=('Datos Adulto'!P28)*C31",
+          "is_formula": true,
+          "cached_value": 10
+        },
+        {
+          "coord": "F31",
+          "content": "=('Datos Adulto'!Q28)*C31",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "G31",
+          "content": "=('Datos Adulto'!R28)*C31",
+          "is_formula": true,
+          "cached_value": 4
+        }
+      ]
+    },
+    {
+      "row": 32,
+      "cells": [
+        {
+          "coord": "B32",
+          "content": "verduras libre consumo",
+          "is_formula": false,
+          "cached_value": "verduras libre consumo"
+        },
+        {
+          "coord": "C32",
+          "content": "2",
+          "is_formula": false,
+          "cached_value": 2
+        },
+        {
+          "coord": "D32",
+          "content": "=('Datos Adulto'!O29)*C32",
+          "is_formula": true,
+          "cached_value": 20
+        },
+        {
+          "coord": "E32",
+          "content": "=('Datos Adulto'!P29)*C32",
+          "is_formula": true,
+          "cached_value": 5
+        },
+        {
+          "coord": "F32",
+          "content": "=('Datos Adulto'!Q29)*C32",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "G32",
+          "content": "=('Datos Adulto'!R29)*C32",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 33,
+      "cells": [
+        {
+          "coord": "B33",
+          "content": "frutas",
+          "is_formula": false,
+          "cached_value": "frutas"
+        },
+        {
+          "coord": "C33",
+          "content": "2",
+          "is_formula": false,
+          "cached_value": 2
+        },
+        {
+          "coord": "D33",
+          "content": "=('Datos Adulto'!O30)*C33",
+          "is_formula": true,
+          "cached_value": 130
+        },
+        {
+          "coord": "E33",
+          "content": "=('Datos Adulto'!P30)*C33",
+          "is_formula": true,
+          "cached_value": 30
+        },
+        {
+          "coord": "F33",
+          "content": "=('Datos Adulto'!Q30)*C33",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "G33",
+          "content": "=('Datos Adulto'!R30)*C33",
+          "is_formula": true,
+          "cached_value": 2
+        }
+      ]
+    },
+    {
+      "row": 34,
+      "cells": [
+        {
+          "coord": "B34",
+          "content": "carnes altas en grasa",
+          "is_formula": false,
+          "cached_value": "carnes altas en grasa"
+        },
+        {
+          "coord": "C34",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        },
+        {
+          "coord": "D34",
+          "content": "=('Datos Adulto'!O31)*C34",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "E34",
+          "content": "=('Datos Adulto'!P31)*C34",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "F34",
+          "content": "=('Datos Adulto'!Q31)*C34",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "G34",
+          "content": "=('Datos Adulto'!R31)*C34",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 35,
+      "cells": [
+        {
+          "coord": "B35",
+          "content": "carnes bajas en grasa",
+          "is_formula": false,
+          "cached_value": "carnes bajas en grasa"
+        },
+        {
+          "coord": "C35",
+          "content": "3",
+          "is_formula": false,
+          "cached_value": 3
+        },
+        {
+          "coord": "D35",
+          "content": "=('Datos Adulto'!O32)*C35",
+          "is_formula": true,
+          "cached_value": 195
+        },
+        {
+          "coord": "E35",
+          "content": "=('Datos Adulto'!P32)*C35",
+          "is_formula": true,
+          "cached_value": 3
+        },
+        {
+          "coord": "F35",
+          "content": "=('Datos Adulto'!Q32)*C35",
+          "is_formula": true,
+          "cached_value": 6
+        },
+        {
+          "coord": "G35",
+          "content": "=('Datos Adulto'!R32)*C35",
+          "is_formula": true,
+          "cached_value": 33
+        }
+      ]
+    },
+    {
+      "row": 36,
+      "cells": [
+        {
+          "coord": "B36",
+          "content": "leguminosas secas",
+          "is_formula": false,
+          "cached_value": "leguminosas secas"
+        },
+        {
+          "coord": "C36",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        },
+        {
+          "coord": "D36",
+          "content": "=('Datos Adulto'!O33)*C36",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "E36",
+          "content": "=('Datos Adulto'!P33)*C36",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "F36",
+          "content": "=('Datos Adulto'!Q33)*C36",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "G36",
+          "content": "=('Datos Adulto'!R33)*C36",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 37,
+      "cells": [
+        {
+          "coord": "B37",
+          "content": "lacteos altos en grasa",
+          "is_formula": false,
+          "cached_value": "lacteos altos en grasa "
+        },
+        {
+          "coord": "C37",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        },
+        {
+          "coord": "D37",
+          "content": "=('Datos Adulto'!O34)*C37",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "E37",
+          "content": "=('Datos Adulto'!P34)*C37",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "F37",
+          "content": "=('Datos Adulto'!Q34)*C37",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "G37",
+          "content": "=('Datos Adulto'!R34)*C37",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 38,
+      "cells": [
+        {
+          "coord": "B38",
+          "content": "lacteos medios en grasa",
+          "is_formula": false,
+          "cached_value": "lacteos medios en grasa"
+        },
+        {
+          "coord": "C38",
+          "content": "3",
+          "is_formula": false,
+          "cached_value": 3
+        },
+        {
+          "coord": "D38",
+          "content": "=('Datos Adulto'!O35)*C38",
+          "is_formula": true,
+          "cached_value": 255
+        },
+        {
+          "coord": "E38",
+          "content": "=('Datos Adulto'!P35)*C38",
+          "is_formula": true,
+          "cached_value": 27
+        },
+        {
+          "coord": "F38",
+          "content": "=('Datos Adulto'!Q35)*C38",
+          "is_formula": true,
+          "cached_value": 9
+        },
+        {
+          "coord": "G38",
+          "content": "=('Datos Adulto'!R35)*C38",
+          "is_formula": true,
+          "cached_value": 15
+        }
+      ]
+    },
+    {
+      "row": 39,
+      "cells": [
+        {
+          "coord": "B39",
+          "content": "lacteos bajos en grasa",
+          "is_formula": false,
+          "cached_value": "lacteos bajos en grasa "
+        },
+        {
+          "coord": "C39",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        },
+        {
+          "coord": "D39",
+          "content": "=('Datos Adulto'!O36)*C39",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "E39",
+          "content": "=('Datos Adulto'!P36)*C39",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "F39",
+          "content": "=('Datos Adulto'!Q36)*C39",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "G39",
+          "content": "=('Datos Adulto'!R36)*C39",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 40,
+      "cells": [
+        {
+          "coord": "B40",
+          "content": "aceites y grasas",
+          "is_formula": false,
+          "cached_value": "aceites y grasas "
+        },
+        {
+          "coord": "C40",
+          "content": "1",
+          "is_formula": false,
+          "cached_value": 1
+        },
+        {
+          "coord": "D40",
+          "content": "=('Datos Adulto'!O37)*C40",
+          "is_formula": true,
+          "cached_value": 180
+        },
+        {
+          "coord": "E40",
+          "content": "=('Datos Adulto'!P37)*C40",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "F40",
+          "content": "=('Datos Adulto'!Q37)*C40",
+          "is_formula": true,
+          "cached_value": 20
+        },
+        {
+          "coord": "G40",
+          "content": "=('Datos Adulto'!R37)*C40",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 41,
+      "cells": [
+        {
+          "coord": "B41",
+          "content": "alimentos rics en lipidos",
+          "is_formula": false,
+          "cached_value": "alimentos rics en lipidos "
+        },
+        {
+          "coord": "C41",
+          "content": "1",
+          "is_formula": false,
+          "cached_value": 1
+        },
+        {
+          "coord": "D41",
+          "content": "=('Datos Adulto'!O38)*C41",
+          "is_formula": true,
+          "cached_value": 175
+        },
+        {
+          "coord": "E41",
+          "content": "=('Datos Adulto'!P38)*C41",
+          "is_formula": true,
+          "cached_value": 5
+        },
+        {
+          "coord": "F41",
+          "content": "=('Datos Adulto'!Q38)*C41",
+          "is_formula": true,
+          "cached_value": 15
+        },
+        {
+          "coord": "G41",
+          "content": "=('Datos Adulto'!R38)*C41",
+          "is_formula": true,
+          "cached_value": 5
+        }
+      ]
+    },
+    {
+      "row": 42,
+      "cells": [
+        {
+          "coord": "B42",
+          "content": "azucar y otros",
+          "is_formula": false,
+          "cached_value": "azucar y otros"
+        },
+        {
+          "coord": "C42",
+          "content": "0",
+          "is_formula": false,
+          "cached_value": 0
+        },
+        {
+          "coord": "D42",
+          "content": "=('Datos Adulto'!O39)*C42",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "E42",
+          "content": "=('Datos Adulto'!P39)*C42",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "F42",
+          "content": "=('Datos Adulto'!Q39)*C42",
+          "is_formula": true,
+          "cached_value": 0
+        },
+        {
+          "coord": "G42",
+          "content": "=('Datos Adulto'!R39)*C42",
+          "is_formula": true,
+          "cached_value": 0
+        }
+      ]
+    },
+    {
+      "row": 43,
+      "cells": [
+        {
+          "coord": "B43",
+          "content": "Total",
+          "is_formula": false,
+          "cached_value": "Total"
+        },
+        {
+          "coord": "D43",
+          "content": "=SUM(D30:D42)",
+          "is_formula": true,
+          "cached_value": 1715
+        },
+        {
+          "coord": "E43",
+          "content": "=SUM(E30:E42)",
+          "is_formula": true,
+          "cached_value": 230
+        },
+        {
+          "coord": "F43",
+          "content": "=SUM(F30:F42)",
+          "is_formula": true,
+          "cached_value": 55
+        },
+        {
+          "coord": "G43",
+          "content": "=SUM(G30:G42)",
+          "is_formula": true,
+          "cached_value": 74
+        }
+      ]
+    },
+    {
+      "row": 44,
+      "cells": [
+        {
+          "coord": "B44",
+          "content": "Requerimiento",
+          "is_formula": false,
+          "cached_value": "Requerimiento"
+        },
+        {
+          "coord": "D44",
+          "content": "1850",
+          "is_formula": false,
+          "cached_value": 1850
+        },
+        {
+          "coord": "E44",
+          "content": "254",
+          "is_formula": false,
+          "cached_value": 254
+        },
+        {
+          "coord": "F44",
+          "content": "51.38",
+          "is_formula": false,
+          "cached_value": 51.38
+        },
+        {
+          "coord": "G44",
+          "content": "92.75",
+          "is_formula": false,
+          "cached_value": 92.75
+        }
+      ]
+    },
+    {
+      "row": 45,
+      "cells": [
+        {
+          "coord": "B45",
+          "content": "% Adecuacion",
+          "is_formula": false,
+          "cached_value": "% Adecuacion "
+        },
+        {
+          "coord": "D45",
+          "content": "=(D43/D44)",
+          "is_formula": true,
+          "cached_value": 0.927027027027027
+        },
+        {
+          "coord": "E45",
+          "content": "=(E43/E44)",
+          "is_formula": true,
+          "cached_value": 0.905511811023622
+        },
+        {
+          "coord": "F45",
+          "content": "=(F43/F44)",
+          "is_formula": true,
+          "cached_value": 1.0704554301284546
+        },
+        {
+          "coord": "G45",
+          "content": "=(G43/G44)",
+          "is_formula": true,
+          "cached_value": 0.7978436657681941
+        }
+      ]
+    }
+  ]
+}
